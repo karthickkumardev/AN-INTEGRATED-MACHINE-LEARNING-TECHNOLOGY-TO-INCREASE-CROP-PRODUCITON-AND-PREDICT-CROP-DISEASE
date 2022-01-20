@@ -4,3 +4,5 @@ _pycache_/
 
 # Trained Data
 *.h5
+squeeze.ipynb
+*.ipynb
