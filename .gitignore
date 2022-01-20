@@ -1,0 +1,6 @@
+# Venv
+venv/
+_pycache_/
+
+# Trained Data
+*.h5

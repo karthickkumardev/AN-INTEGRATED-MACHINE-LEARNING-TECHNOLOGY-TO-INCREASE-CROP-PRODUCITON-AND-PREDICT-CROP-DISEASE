@@ -1,0 +1,1000 @@
+Rice,30,35,5.5,6.5,food,Winter,450,700,Alluvial,West Bengal
+Maize,18,27,5.8,6.8,food,Summer,500,800,Sandy,Andhra Pradesh
+Wheat,25,30,5.5,6.5,food,Winter,450,650,Black,Uttar Pradesh
+Soybeans,15,20,6.3,6.5,food,Winter,450,700,Loamy,Madhya Pradesh
+Tomatoes,21,24,6,6.8,plantation,Summer,300,400,Sandy,West Bengal
+Sugarcane,25,45,6,7,plantation,Rainy,1500,2500,Alluvial,Uttar Pradesh
+Cotton,21,30,6.5,7.5,cash,Rainy,700,1300,Black,Gujarat
+Sunflower,10,15,6,7.5,cash,Winter,400,600,Sandy,Karnataka
+Banana,15,40,6.5,7.5,plantation,Rainy,1200,2200,Black,Tamil Nadu
+Cabbage,12,16,5.5,6.5,plantation,Winter,350,500,Sandy,West Bengal
+Citrus,20,25,5.5,7.5,plantation,Rainy,900,1200,Alluvial,Andhra Pradesh
+Onion,30,35,5.8,6.5,cash,Summer,350,550,Sandy,Maharastra
+Potato,20,30,4.8,5.4,plantation,Summer,500,700,Loamy,Uttar Pradesh
+Jute,25,40,4.8,5.8,cash,Rainy,900,1300,Alluvial,West Bengal
+Arecanut,10,20,6.5,6.5,food,summer,450,700,Alluvial,West Bengal
+Other Kharif pulses,15,35,6,6.5,plantatior,winter,500,800,Sandy,Andhra Pradesh
+Rice,12,38,6.5,6.8,cash,rainy,450,650,Black,Uttar Pradesh
+Banana,20,27,5.5,7,food,rainy,450,700,Loamy,Madhya Pradesh
+Cashewnut,30,40,5.5,7.5,cash,summer,300,400,Sandy,West Bengal
+Coconut ,25,22,5.8,7.5,plantatior,summer,1500,2500,Alluvial,Uttar Pradesh
+Dry ginger,10,26,4.8,7.5,food,summer,700,1300,Black,Gujarat
+Sugarcane,18,28,4.8,6.5,food,rainy,400,600,Sandy,Karnataka
+Sweet potato,16,35,5.5,6.5,cash,winter,1200,2200,Black,Tamil Nadu
+Tapioca,22,37,5.8,6.8,plantatior,winter,350,500,Sandy,West Bengal
+Arecanut,24,38,5.5,6.5,cash,Winter,900,1200,Alluvial,Andhra Pradesh
+Other Kharif pulses,20,25,6.3,6.5,food,Summer,350,550,Sandy,Uttar Pradesh
+Rice,10,23,6,6.8,food,Winter,500,700,Loamy,Gujarat
+Cashewnut,25,22,6,5.4,cash,Winter,900,1300,Alluvial,Karnataka
+Coconut ,11,27,6.5,5.8,food,Summer,1200,2500,Black,Tamil Nadu
+Dry ginger,13,37,6,6.5,plantatior,Rainy,350,1300,Sandy,West Bengal
+Sugarcane,23,40,6.5,6.5,food,Rainy,900,600,Black,Andhra Pradesh
+Sweet potato,25,20,5.5,6.8,plantation,Winter,350,2200,Sandy,Maharastra
+Rice,26,26,5.5,7,plantation,Rainy,500,500,Alluvial,Uttar Pradesh
+Arecanut,18,28,5.8,7.5,cash,Winter,900,1200,Sandy,West Bengal
+Banana,22,24,4.8,7.5,cash,Rainy,450,550,Loamy,West Bengal
+Black pepper,30,34,4.8,7.5,plantation,Summer,500,700,Alluvial,Andhra Pradesh
+Cashewnut,10,38,6.5,6.5,plantation,Summer,450,1300,Alluvial,Uttar Pradesh
+Coconut ,12,30,6,6.5,plantation,Rainy,450,700,Sandy,Madhya Pradesh
+Dry chillies,15,27,6.5,6.5,cash,summer,300,800,Black,West Bengal
+Dry ginger,17,30,5.5,6.8,plantation,winter,1500,650,Loamy,Uttar Pradesh
+Sugarcane,27,39,5.5,6.5,cash,rainy,700,700,Sandy,Gujarat
+Rice,29,36,5.8,6.5,food,rainy,400,400,Alluvial,Karnataka
+Arecanut,22,25,4.8,6.8,plantatior,summer,1200,2500,Black,Tamil Nadu
+Banana,30,40,4.8,7,cash,summer,350,1300,Sandy,West Bengal
+Black pepper,10,35,6.5,7.5,food,summer,900,600,Black,Andhra Pradesh
+Cashewnut,15,27,5.5,7.5,cash,rainy,350,2200,Sandy,Uttar Pradesh
+Coconut ,12,30,5.5,7.5,plantatior,winter,500,500,Alluvial,Gujarat
+Dry chillies,20,20,5.8,6.5,food,winter,900,1200,Sandy,Karnataka
+Dry ginger,30,24,4.8,7.5,food,Winter,450,550,Black,Tamil Nadu
+other oilseeds,20,45,4.8,6.5,cash,Summer,500,700,Loamy,West Bengal
+Rice,25,30,6.5,5.4,plantatior,Winter,450,600,Sandy,Andhra Pradesh
+Arecanut,10,15,6,5.8,cash,Winter,450,2200,Alluvial,Maharastra
+Banana,15,40,4.8,6.5,food,Summer,300,500,Black,Uttar Pradesh
+Black pepper,12,16,4.8,6.5,food,Rainy,1500,1200,Sandy,West Bengal
+Cashewnut,20,25,6.5,6.8,cash,Rainy,700,550,Black,West Bengal
+Coconut ,30,35,6,7,food,Winter,400,700,Sandy,Andhra Pradesh
+Dry chillies,25,30,6.5,7.5,plantatior,Rainy,1200,1300,Alluvial,Uttar Pradesh
+Dry ginger,10,40,5.5,7.5,food,Winter,350,700,Sandy,Madhya Pradesh
+other oilseeds,18,20,5.5,7.5,food,Rainy,900,800,Loamy,West Bengal
+Rice,16,35,5.8,6.5,cash,Summer,350,650,Alluvial,Uttar Pradesh
+Arecanut,22,38,4.8,6.5,cash,Summer,500,700,Alluvial,Gujarat
+Banana,24,27,4.8,6.8,plantatior,Rainy,900,400,Sandy,Karnataka
+Black pepper,20,40,5.5,6.5,food,summer,450,2500,Black,Tamil Nadu
+Cashewnut,10,22,5.8,6.5,cash,winter,500,1300,Loamy,West Bengal
+Coconut ,25,26,5.5,6.8,cash,rainy,450,600,Sandy,Andhra Pradesh
+Dry chillies,11,28,5.8,5.4,food,rainy,450,2200,Alluvial,West Bengal
+Turmeric,13,35,5.5,5.8,plantatior,summer,300,500,Black,Andhra Pradesh
+Arecanut,23,37,6.3,6.5,cash,summer,1500,1200,Sandy,Uttar Pradesh
+Banana,25,38,6,6.5,food,summer,700,550,Black,Madhya Pradesh
+Black pepper,26,25,6,6.8,food,rainy,400,700,Sandy,West Bengal
+Cashewnut,18,23,6.5,7,plantatior,winter,1200,1300,Alluvial,Uttar Pradesh
+Coconut ,22,24,6,7.5,cash,winter,350,2500,Sandy,Gujarat
+Dry chillies,30,33,6.5,7.5,food,Winter,900,1300,Loamy,Karnataka
+Dry ginger,10,35,5.5,7.5,plantatior,Summer,350,600,Alluvial,Tamil Nadu
+Sugarcane,12,27,5.5,6.5,food,Winter,500,2200,Black,West Bengal
+Sweet potato,15,35,5.8,6.5,food,Winter,900,500,Sandy,Andhra Pradesh
+Tapioca,17,36,4.8,6.5,cash,Summer,1200,1200,Black,Maharastra
+Turmeric,27,30,4.8,6.5,cash,Rainy,350,550,Sandy,Uttar Pradesh
+Rice,29,40,6.5,6.8,plantation,Rainy,900,700,Alluvial,West Bengal
+Sugarcane,22,25,6,7,cash,Winter,350,1300,Sandy,West Bengal
+Arecanut,30,27,6.5,7.5,food,Rainy,500,700,Loamy,Andhra Pradesh
+Black pepper,10,20,5.5,7.5,plantatior,Winter,900,800,Alluvial,Uttar Pradesh
+Cashewnut,30,30,5.5,7.5,cash,Rainy,450,650,Alluvial,Madhya Pradesh
+Dry chillies,23,37,5.8,6.5,food,Summer,500,700,Sandy,West Bengal
+Dry ginger,21,39,4.8,6.5,cash,Summer,450,400,Black,Uttar Pradesh
+Maize,16,29,4.8,6.8,plantatior,Rainy,450,2500,Loamy,Gujarat
+Moong(Green Gram),18,20,5.5,6.5,food,summer,300,600,Sandy,Karnataka
+Sweet potato,26,30,5.8,6.5,food,winter,1500,2200,Alluvial,Tamil Nadu
+Turmeric,30,36,5.5,6.8,cash,rainy,700,500,Black,West Bengal
+Urad,10,40,6.3,5.4,plantatior,rainy,400,1200,Sandy,Andhra Pradesh
+Banana,11,40,6,5.8,cash,summer,1200,550,Black,Uttar Pradesh
+Coconut ,18,20,6,6.5,food,summer,350,700,Sandy,Gujarat
+Tapioca,25,22,6.5,6.5,food,summer,900,1300,Sandy,Karnataka
+Arecanut,28,27,6,6.8,cash,rainy,350,700,Alluvial,Tamil Nadu
+Other Kharif pulses,19,37,6.5,7,food,winter,500,800,Black,West Bengal
+Rice,29,32,5.5,7.5,plantatior,winter,350,650,Sandy,Andhra Pradesh
+Banana,30,34,5.5,7.5,food,Winter,450,700,Black,Maharastra
+Cashewnut,21,24,5.8,7.5,plantation,Summer,300,400,Sandy,Uttar Pradesh
+Coconut ,13,37,4.8,6.5,plantation,Winter,1500,2500,Alluvial,West Bengal
+Dry ginger,15,28,4.8,6.5,cash,Winter,700,1300,Sandy,West Bengal
+other oilseeds,26,38,6.5,6.8,cash,Summer,400,600,Loamy,Andhra Pradesh
+Sugarcane,28,40,6,6.5,plantation,Rainy,1200,2200,Alluvial,Uttar Pradesh
+Sweet potato,29,22,6.5,6.5,plantation,Rainy,350,500,Alluvial,Madhya Pradesh
+Tapioca,30,3036,5.5,6.8,plantation,Winter,900,1200,Sandy,West Bengal
+Arecanut,12,37,5.5,7,cash,Rainy,350,550,Black,Uttar Pradesh
+Other Kharif pulses,11,34,5.8,7.5,plantation,Winter,500,700,Loamy,Gujarat
+Rice,10,38,4.8,7.5,cash,Rainy,900,1300,Sandy,Karnataka
+Cashewnut,19,28,4.8,7.5,food,Summer,450,2500,Alluvial,Tamil Nadu
+Coconut ,15,20,6.5,6.5,plantatior,Summer,500,1300,Black,West Bengal
+Dry ginger,10,25,5.5,7.5,cash,Rainy,450,600,Sandy,Andhra Pradesh
+Sugarcane,15,35,5.5,6.5,food,summer,450,2200,Black,Uttar Pradesh
+Sweet potato,12,40,5.8,5.4,cash,winter,300,500,Sandy,Gujarat
+Rice,20,26,4.8,5.8,plantatior,rainy,1500,1200,Alluvial,Karnataka
+Arecanut,30,28,4.8,6.5,food,rainy,700,550,Sandy,Tamil Nadu
+Banana,20,24,6.5,6.5,food,summer,400,700,Loamy,West Bengal
+Black pepper,25,34,6,6.8,cash,summer,1200,1300,Alluvial,Andhra Pradesh
+Cashewnut,10,38,4.8,7,plantatior,summer,350,700,Black,Maharastra
+Coconut ,15,30,4.8,7.5,cash,rainy,900,800,Sandy,Uttar Pradesh
+Dry chillies,12,27,6.5,7.5,food,winter,350,650,Black,West Bengal
+Dry ginger,20,30,6,7.5,cash,winter,500,700,Sandy,West Bengal
+other oilseeds,30,39,6.5,6.5,food,Winter,900,400,Alluvial,Andhra Pradesh
+Sugarcane,25,36,5.5,6.5,plantatior,Summer,1200,2500,Sandy,Uttar Pradesh
+Sweet potato,10,25,5.5,6.8,food,Winter,350,800,Loamy,Madhya Pradesh
+Tapioca,18,40,5.8,6.5,cash,Winter,900,650,Alluvial,West Bengal
+Turmeric,16,35,4.8,6.5,food,Summer,350,700,Alluvial,Uttar Pradesh
+Rice,22,27,4.8,6.8,plantatior,Rainy,500,400,Sandy,Gujarat
+Sugarcane,24,30,5.5,5.4,food,Rainy,900,2500,Black,Karnataka
+Arecanut,20,20,5.8,5.8,cash,Winter,450,1300,Loamy,Tamil Nadu
+Arhar/Tur,10,24,6.5,6.5,food,Rainy,500,600,Sandy,West Bengal
+Black pepper,13,45,5.5,6.5,cash,Winter,450,2200,Alluvial,Andhra Pradesh
+Cashewnut,26,30,5.5,6.8,plantatior,Rainy,450,500,Black,West Bengal
+Dry chillies,17,15,5.8,7,food,Summer,300,1200,Sandy,Andhra Pradesh
+Dry ginger,15,40,4.8,7.5,cash,Summer,1500,550,Black,Uttar Pradesh
+Groundnut,10,16,4.8,7.5,cash,Rainy,700,700,Sandy,Madhya Pradesh
+Maize,10,25,6.5,7.5,plantatior,summer,400,1300,Alluvial,West Bengal
+Moong(Green Gram),30,35,6,6.5,food,winter,1200,2500,Sandy,Uttar Pradesh
+Sunflower,26,30,6.5,6.5,food,rainy,350,1300,Black,Gujarat
+Sweet potato,24,40,5.5,6.5,plantatior,rainy,900,600,Loamy,Karnataka
+Turmeric,13,20,5.5,6.8,food,summer,350,2200,Sandy,Tamil Nadu
+Urad,10,35,5.8,6.5,cash,summer,500,500,Alluvial,West Bengal
+Banana,26,27,4.8,6.5,cash,summer,900,1200,Black,Andhra Pradesh
+Coconut ,28,30,4.8,6.8,food,rainy,450,550,Sandy,Maharastra
+Tapioca,15,20,5.5,7,food,winter,500,700,Black,Uttar Pradesh
+Rice,12,24,5.8,7.5,plantatior,winter,450,1300,Sandy,West Bengal
+Arecanut,30,24,5.5,7.5,plantatior,Winter,450,700,Sandy,West Bengal
+Banana,29,45,6.3,7.5,food,Summer,300,800,Black,Andhra Pradesh
+Black pepper,26,30,6,6.5,food,Winter,1500,650,Loamy,Uttar Pradesh
+Cashewnut,24,15,6,7.5,cash,Winter,700,700,Sandy,Madhya Pradesh
+Coconut ,13,40,6.5,6.5,plantatior,Summer,450,400,Alluvial,West Bengal
+Dry chillies,15,16,6,5.4,plantation,Rainy,300,2500,Black,Uttar Pradesh
+Dry ginger,24,25,6.5,5.8,cash,Rainy,1500,600,Sandy,Gujarat
+other oilseeds,26,35,5.5,6.5,plantation,Winter,700,2200,Black,Karnataka
+Sugarcane,15,30,5.5,6.5,cash,Rainy,400,500,Sandy,Tamil Nadu
+Rice,27,40,5.8,6.8,food,Winter,1200,1200,Alluvial,West Bengal
+Arecanut,12,20,4.8,7,plantatior,Rainy,350,550,Sandy,Andhra Pradesh
+Banana,17,35,4.8,7.5,cash,Summer,900,700,Loamy,Uttar Pradesh
+Black pepper,25,38,6.5,7.5,food,Summer,350,1300,Alluvial,Gujarat
+Cashewnut,26,27,6,7.5,cash,Rainy,500,700,Alluvial,Karnataka
+Coconut ,30,40,6.5,6.5,plantatior,summer,900,800,Sandy,Tamil Nadu
+Dry chillies,12,22,5.5,6.5,food,winter,450,650,Black,West Bengal
+Dry ginger,12,26,5.8,6.8,food,rainy,500,700,Loamy,Andhra Pradesh
+other oilseeds,16,28,5.5,6.5,cash,rainy,450,400,Sandy,Maharastra
+Sugarcane,23,35,6.3,6.5,plantatior,summer,450,2500,Alluvial,Uttar Pradesh
+Rice,25,37,6,6.8,cash,summer,300,1300,Black,West Bengal
+Arecanut,12,38,6,5.4,food,summer,1500,600,Sandy,West Bengal
+Banana,10,25,6.5,5.8,food,rainy,700,2200,Black,Andhra Pradesh
+Black pepper,15,23,6,6.5,cash,winter,400,500,Sandy,Uttar Pradesh
+Cashewnut,12,22,6.5,6.5,food,winter,1200,1200,Alluvial,Madhya Pradesh
+Coconut ,20,27,5.5,6.8,plantatior,Winter,350,550,Sandy,West Bengal
+Dry chillies,30,37,5.5,7,food,Summer,900,700,Loamy,Uttar Pradesh
+Dry ginger,20,40,5.8,7.5,plantation,Winter,350,1300,Alluvial,Gujarat
+other oilseeds,25,20,4.8,7.5,plantation,Winter,500,2500,Black,Karnataka
+Sugarcane,10,26,4.8,7.5,cash,Summer,900,1300,Sandy,Tamil Nadu
+Rice,15,28,6.5,6.5,cash,Rainy,1200,600,Black,West Bengal
+Arecanut,12,24,6,6.5,plantation,Rainy,350,2200,Sandy,Andhra Pradesh
+Banana,20,34,6.5,6.5,plantation,Winter,900,500,Alluvial,Uttar Pradesh
+Black pepper,30,38,5.5,6.5,plantation,Rainy,350,1200,Sandy,Gujarat
+Cashewnut,25,30,5.5,6.8,cash,Winter,500,550,Loamy,Karnataka
+Coconut ,10,27,5.8,7,plantation,Rainy,900,700,Alluvial,Tamil Nadu
+Dry chillies,18,30,4.8,7.5,cash,Summer,450,1300,Alluvial,West Bengal
+Dry ginger,16,39,4.8,7.5,food,Summer,500,700,Sandy,Andhra Pradesh
+other oilseeds,22,36,5.5,7.5,plantatior,Rainy,450,800,Black,Maharastra
+Sugarcane,24,25,5.8,6.5,cash,summer,450,650,Loamy,Uttar Pradesh
+Sweet potato,20,40,5.5,6.5,food,winter,300,700,Sandy,West Bengal
+Tapioca,10,35,6.3,6.8,cash,rainy,1500,400,Alluvial,West Bengal
+Turmeric,13,27,6,6.5,plantatior,rainy,700,2500,Black,Andhra Pradesh
+Rice,26,30,6,6.5,food,summer,400,400,Sandy,Uttar Pradesh
+Arecanut,30,20,6.5,6.8,food,summer,1200,2500,Black,Madhya Pradesh
+Banana,18,24,6,5.4,cash,summer,350,1300,Sandy,West Bengal
+Black pepper,25,45,6.5,5.8,plantatior,rainy,900,600,Alluvial,Uttar Pradesh
+Cashewnut,15,30,5.5,6.5,cash,winter,350,2200,Sandy,Gujarat
+Coconut ,21,15,5.5,6.5,food,winter,500,500,Black,Karnataka
+Dry chillies,25,40,5.8,6.8,food,Winter,900,1200,Loamy,Tamil Nadu
+Dry ginger,21,16,4.8,7,cash,Summer,450,550,Sandy,West Bengal
+other oilseeds,10,25,4.8,7.5,food,Winter,500,700,Alluvial,Andhra Pradesh
+Sugarcane,15,35,6.5,7.5,plantatior,Winter,450,1300,Black,West Bengal
+Sweet potato,12,30,6,7.5,food,Summer,450,700,Sandy,Uttar Pradesh
+Tapioca,20,40,6.5,6.5,food,Rainy,300,800,Black,Gujarat
+Turmeric,30,20,5.5,6.5,cash,Rainy,1500,650,Sandy,Karnataka
+Rice,20,35,5.5,6.8,cash,Winter,700,700,Alluvial,Tamil Nadu
+Sugarcane,25,38,5.8,7,plantatior,Rainy,300,400,Sandy,West Bengal
+Arecanut,10,27,4.8,7.5,food,Winter,1500,2500,Loamy,Andhra Pradesh
+Arhar/Tur,15,40,4.8,7.5,cash,Rainy,700,1300,Alluvial,Uttar Pradesh
+Black pepper,12,22,6.5,7.5,cash,Summer,400,600,Alluvial,Gujarat
+Cashewnut,20,26,5.5,6.5,food,Summer,1200,2200,Sandy,Karnataka
+Dry chillies,30,28,5.5,7.5,plantatior,Rainy,350,500,Black,Tamil Nadu
+Dry ginger,25,35,5.8,6.5,cash,summer,900,1200,Loamy,West Bengal
+Groundnut,10,37,4.8,5.4,food,winter,350,550,Sandy,Andhra Pradesh
+Maize,18,38,4.8,5.8,food,rainy,500,700,Alluvial,Maharastra
+Moong(Green Gram),16,25,6.5,6.5,plantatior,rainy,900,1300,Black,Uttar Pradesh
+Sunflower,22,23,6,6.5,cash,summer,1200,2500,Sandy,West Bengal
+Sweet potato,24,24,4.8,6.8,food,summer,350,1300,Black,West Bengal
+Turmeric,20,33,4.8,7,plantatior,summer,900,600,Sandy,Andhra Pradesh
+Urad,10,35,6.5,7.5,food,rainy,350,2200,Alluvial,Uttar Pradesh
+Banana,25,27,6,7.5,food,winter,500,500,Sandy,Madhya Pradesh
+Coconut ,11,35,6.5,7.5,cash,winter,900,1200,Loamy,West Bengal
+Tapioca,13,36,5.5,6.5,cash,Winter,450,550,Alluvial,Uttar Pradesh
+Arhar/Tur,23,30,6.5,6.5,plantation,Summer,500,700,Black,Gujarat
+Bajra,25,40,6.3,6.8,cash,Winter,450,1300,Sandy,Karnataka
+Castor seed,26,25,6,6.5,food,Winter,450,700,Black,Tamil Nadu
+Cotton(lint),18,27,6,6.5,plantatior,Summer,300,800,Sandy,West Bengal
+Dry chillies,22,20,6.5,6.8,cash,Rainy,1500,650,Alluvial,Andhra Pradesh
+Groundnut,30,30,6,5.4,food,Rainy,700,700,Sandy,Uttar Pradesh
+Horse-gram,10,37,6.5,5.8,cash,Winter,400,400,Loamy,Gujarat
+Jowar,12,39,5.5,6.5,plantatior,Rainy,1200,2500,Alluvial,Karnataka
+Korra,15,29,5.5,6.5,food,Winter,350,1300,Alluvial,Tamil Nadu
+Maize,17,20,5.8,6.8,food,Rainy,900,600,Sandy,West Bengal
+Moong(Green Gram),27,30,4.8,7,cash,Summer,350,2200,Black,Andhra Pradesh
+Other Kharif pulses,29,36,4.8,7.5,plantatior,Summer,500,500,Loamy,Maharastra
+Ragi,22,40,6.5,7.5,cash,Rainy,900,1200,Sandy,Uttar Pradesh
+Rice,30,40,6,7.5,food,summer,450,550,Alluvial,West Bengal
+Sugarcane,10,20,6.5,6.5,food,winter,500,700,Black,West Bengal
+Sunflower,15,22,5.5,6.5,cash,rainy,450,600,Sandy,Andhra Pradesh
+Tobacco,12,27,5.5,6.5,food,rainy,450,2200,Black,Uttar Pradesh
+Dry chillies,20,37,5.8,6.8,plantatior,summer,300,500,Sandy,Madhya Pradesh
+Gram,30,32,4.8,6.5,plantation,summer,1500,1200,Sandy,West Bengal
+Groundnut,20,34,4.8,6.5,plantation,summer,700,550,Alluvial,Uttar Pradesh
+Horse-gram,25,24,5.5,6.8,plantation,rainy,500,700,Black,Gujarat
+Jowar,10,37,5.8,7,cash,winter,900,1300,Sandy,Karnataka
+Korra,15,28,5.5,7.5,plantation,winter,1200,700,Black,Tamil Nadu
+Maize,12,38,6.3,7.5,cash,Winter,350,800,Sandy,West Bengal
+Ragi,20,40,6,7.5,food,Summer,900,650,Alluvial,Andhra Pradesh
+Rice,30,22,6,6.5,plantatior,Winter,350,700,Sandy,West Bengal
+Sunflower,25,3036,6.5,7.5,cash,Winter,500,400,Loamy,Andhra Pradesh
+Wheat,10,37,6,6.5,food,Summer,900,2500,Alluvial,Uttar Pradesh
+Arhar/Tur,18,34,6.5,5.4,cash,Rainy,450,1300,Alluvial,Madhya Pradesh
+Bajra,16,38,5.5,5.8,plantatior,Rainy,500,600,Sandy,West Bengal
+Castor seed,22,28,5.5,6.5,food,Winter,450,2200,Black,Uttar Pradesh
+Cotton(lint),24,20,5.8,6.5,food,Winter,450,500,Loamy,Gujarat
+Dry chillies,20,25,4.8,6.8,cash,Summer,300,1200,Sandy,Karnataka
+Groundnut,10,35,4.8,7,plantatior,Winter,1500,550,Alluvial,Tamil Nadu
+Horse-gram,25,40,6.5,7.5,cash,Winter,700,700,Black,West Bengal
+Jowar,11,26,6,7.5,food,Summer,400,1300,Sandy,Andhra Pradesh
+Korra,12,28,6.5,7.5,food,Rainy,1200,2500,Black,Maharastra
+Maize,14,24,5.5,6.5,cash,Rainy,350,1300,Sandy,Uttar Pradesh
+Moong(Green Gram),24,23,5.5,6.5,food,Winter,900,600,Alluvial,West Bengal
+Other Kharif pulses,25,25,5.8,6.8,plantatior,Rainy,350,2200,Sandy,West Bengal
+Ragi,22,26,4.8,6.5,food,Winter,500,500,Loamy,Andhra Pradesh
+Rice,20,34,4.8,6.5,food,Rainy,350,1200,Alluvial,Uttar Pradesh
+Sunflower,10,35,6.5,6.8,cash,Summer,450,550,Black,Madhya Pradesh
+Dry chillies,12,30,5.5,5.4,cash,Summer,300,700,Sandy,West Bengal
+Gram,23,20,5.5,5.8,plantatior,Rainy,1500,1200,Black,Uttar Pradesh
+Groundnut,12,30,5.8,6.5,food,summer,700,550,Sandy,Gujarat
+Horse-gram,15,35,4.8,6.5,cash,winter,400,700,Alluvial,Karnataka
+Jowar,26,34,4.8,6.8,cash,rainy,1200,1300,Sandy,Tamil Nadu
+Maize,14,40,6.5,7,food,rainy,350,700,Loamy,West Bengal
+Ragi,23,37,6,7.5,plantatior,summer,900,800,Alluvial,Andhra Pradesh
+Rice,25,38,4.8,7.5,cash,summer,350,650,Alluvial,Uttar Pradesh
+Sunflower,26,30,4.8,7.5,food,summer,500,700,Sandy,Gujarat
+Wheat,28,22,6.5,6.5,food,rainy,900,400,Black,Karnataka
+Sugarcane,16,34,6,6.5,plantatior,winter,450,2500,Loamy,Tamil Nadu
+Tobacco,19,0,6.5,6.5,cash,winter,500,1300,Sandy,West Bengal
+Bajra,22,40,5.5,6.5,food,Winter,450,600,Alluvial,Andhra Pradesh
+Castor seed,11,20,5.5,6.8,plantatior,Summer,450,2200,Black,Maharastra
+Cotton(lint),12,37,5.8,7,food,Winter,300,500,Sandy,Uttar Pradesh
+Groundnut,16,35,4.8,7.5,food,Winter,1500,1200,Black,West Bengal
+Horse-gram,21,24,4.8,6.5,cash,Summer,700,550,Sandy,West Bengal
+Jowar,29,37,5.5,6.8,cash,Rainy,400,700,Alluvial,Andhra Pradesh
+Maize,20,38,5.8,6.5,plantation,Rainy,1200,1300,Sandy,Uttar Pradesh
+Masoor,10,40,6.5,6.5,cash,Winter,350,2500,Black,Madhya Pradesh
+Moong(Green Gram),12,20,5.5,6.8,food,Rainy,900,1300,Loamy,West Bengal
+Ragi,14,30,5.5,5.4,plantatior,Winter,350,600,Sandy,Uttar Pradesh
+Rice,15,40,5.8,5.8,cash,Rainy,500,2200,Alluvial,Gujarat
+Sesamum,26,30,4.8,6.5,food,Summer,900,500,Black,Karnataka
+Urad,25,38,4.8,6.5,cash,Summer,1200,1200,Sandy,Tamil Nadu
+Bajra,23,26,6.5,6.8,plantatior,Rainy,350,550,Black,West Bengal
+Gram,27,27,6,7,food,summer,900,700,Sandy,Andhra Pradesh
+Groundnut,28,30,6.5,7.5,food,winter,350,1300,Alluvial,Uttar Pradesh
+Horse-gram,12,40,5.5,7.5,cash,rainy,500,700,Black,Gujarat
+Jowar,26,20,5.5,7.5,plantatior,rainy,900,800,Sandy,Karnataka
+Linseed,28,23,5.8,6.5,cash,summer,450,650,Black,Tamil Nadu
+Maize,23,25,4.8,6.5,food,summer,500,700,Sandy,West Bengal
+Masoor,11,35,4.8,6.5,food,summer,450,400,Alluvial,Andhra Pradesh
+Moong(Green Gram),10,40,5.5,6.5,cash,rainy,450,2500,Sandy,Maharastra
+Ragi,14,30,5.8,6.8,food,winter,300,2500,Loamy,Uttar Pradesh
+Rice,23,35,5.5,7,plantatior,winter,1500,1300,Alluvial,West Bengal
+Safflower,22,36,6.3,7.5,food,Winter,700,600,Black,West Bengal
+Sesamum,21,28,6,7.5,plantation,Summer,400,2200,Sandy,Andhra Pradesh
+Wheat,25,40,6,7.5,plantation,Winter,1200,500,Black,Uttar Pradesh
+Dry chillies,10,24,6.5,6.5,cash,Winter,450,1200,Sandy,Madhya Pradesh
+Onion,20,25,5.8,6.5,cash,Summer,500,550,Alluvial,West Bengal
+Sugarcane,30,35,4.8,6.8,plantation,Rainy,450,700,Sandy,Uttar Pradesh
+Arhar/Tur,18,36,4.8,6.5,plantation,Rainy,450,1300,Loamy,Gujarat
+Bajra,25,27,6.5,6.5,plantation,Winter,300,700,Alluvial,Karnataka
+Castor seed,30,28,6,6.8,cash,Rainy,1500,800,,Tamil Nadu
+Cotton(lint),12,29,6.5,5.4,plantation,Winter,700,650,,West Bengal
+Dry chillies,10,35,5.5,5.8,cash,Rainy,400,700,,Andhra Pradesh
+Gram,14,36,5.5,6.5,food,Summer,1200,400,,West Bengal
+Groundnut,15,34,5.8,6.5,plantatior,Summer,350,2500,,Andhra Pradesh
+Horse-gram,16,38,4.8,6.8,cash,Rainy,900,400,,Maharastra
+Jowar,17,20,4.8,7,food,summer,350,2500,,Uttar Pradesh
+Korra,29,22,5.5,7.5,cash,winter,500,1300,,West Bengal
+Maize,30,24,5.8,7.5,plantatior,rainy,900,600,,West Bengal
+Moong(Green Gram),21,22,5.5,7.5,food,rainy,450,2200,,Andhra Pradesh
+Onion,13,26,6.3,6.5,food,summer,500,500,,Uttar Pradesh
+Other Kharif pulses,15,28,6,6.5,cash,summer,450,1200,,Madhya Pradesh
+other misc. pulses,26,35,6,6.8,plantatior,summer,450,550,,West Bengal
+Ragi,28,37,6.5,7,cash,rainy,300,700,,Uttar Pradesh
+Rice,29,38,6,7.5,food,winter,1500,1300,,Gujarat
+Samai,30,25,6.5,7.5,cash,winter,700,700,,Karnataka
+Sesamum,12,23,5.5,7.5,food,Winter,400,800,,Tamil Nadu
+Small millets,11,22,5.5,6.5,plantatior,Summer,1200,650,,West Bengal
+Sunflower,10,27,5.8,7.5,food,Winter,350,700,,Andhra Pradesh
+Urad,19,37,4.8,6.5,cash,Winter,900,400,,West Bengal
+Arhar/Tur,15,40,4.8,5.4,food,Summer,350,2500,,Andhra Pradesh
+Bajra,10,20,6.5,5.8,plantatior,Rainy,500,1300,,Uttar Pradesh
+Dry chillies,15,26,6,6.5,food,Rainy,900,600,,Madhya Pradesh
+Gram,12,28,6.5,6.5,cash,Winter,1200,2200,,West Bengal
+Groundnut,20,24,5.5,6.8,food,Rainy,350,500,,Uttar Pradesh
+Horse-gram,30,34,5.8,7,cash,Winter,900,1200,,Gujarat
+Jowar,20,38,5.5,7.5,plantatior,Rainy,350,550,,Karnataka
+Korra,25,30,6.3,7.5,food,Summer,500,700,,Tamil Nadu
+Linseed,10,27,6,7.5,cash,Summer,900,1300,,West Bengal
+Maize,15,30,6,6.5,cash,Rainy,450,2500,,Andhra Pradesh
+Onion,12,39,6.5,6.5,plantatior,summer,500,1300,,Maharastra
+Ragi,20,36,6,6.8,food,winter,450,600,,Uttar Pradesh
+Rice,30,25,6.5,6.5,food,rainy,450,2200,,West Bengal
+Safflower,25,40,5.5,6.5,plantatior,rainy,300,500,,West Bengal
+Small millets,10,35,5.5,6.8,food,summer,1500,1200,,Andhra Pradesh
+Urad,18,27,5.8,5.4,cash,summer,700,550,,Uttar Pradesh
+Wheat,16,30,4.8,5.8,cash,summer,900,700,,Madhya Pradesh
+Arecanut,22,20,4.8,6.5,food,rainy,450,1300,,West Bengal
+Banana,24,24,6.5,6.5,food,winter,500,700,,Uttar Pradesh
+Coconut ,20,45,6,6.8,plantatior,winter,450,800,,Gujarat
+Coriander,10,30,6.5,7,plantatior,Winter,450,650,,Karnataka
+Potato,13,15,5.5,7.5,food,Summer,300,700,,Tamil Nadu
+Sugarcane,26,40,5.5,7.5,food,Winter,1500,400,,West Bengal
+Sweet potato,20,16,5.8,7.5,cash,Winter,700,2500,,Andhra Pradesh
+Tobacco,19,25,4.8,6.5,plantatior,Summer,400,1300,,Uttar Pradesh
+Turmeric,24,35,4.8,6.5,plantation,Rainy,1200,600,,Gujarat
+Arhar/Tur,25,30,5.5,6.5,cash,Rainy,350,2200,,Karnataka
+Bajra,15,40,5.8,6.8,plantation,Winter,350,500,,Tamil Nadu
+Castor seed,20,20,5.5,6.5,cash,Summer,900,1200,,West Bengal
+Cotton(lint),25,35,6.3,6.5,food,Summer,350,550,,Andhra Pradesh
+Dry chillies,30,38,6,6.8,plantatior,Rainy,500,700,,Maharastra
+Gram,12,27,6,7,cash,summer,900,600,,Uttar Pradesh
+Groundnut,10,40,6.5,7.5,food,winter,450,2200,,West Bengal
+Horse-gram,13,22,6,7.5,cash,rainy,500,700,,West Bengal
+Jowar,15,26,6.5,7.5,plantatior,rainy,450,800,,Andhra Pradesh
+Korra,26,28,5.5,6.5,food,summer,450,650,,Uttar Pradesh
+Maize,28,35,5.5,7.5,food,summer,300,700,,Madhya Pradesh
+Moong(Green Gram),30,37,5.8,6.5,cash,summer,1500,400,,West Bengal
+Dry chillies,20,20,5.8,6.5,food,winter,900,1200,Sandy,Karnataka
+Dry ginger,30,24,4.8,7.5,food,Winter,450,550,Black,Tamil Nadu
+other oilseeds,20,45,4.8,6.5,cash,Summer,500,700,Loamy,West Bengal
+Rice,25,30,6.5,5.4,plantatior,Winter,450,600,Sandy,Andhra Pradesh
+Arecanut,10,15,6,5.8,cash,Winter,450,2200,Alluvial,Maharastra
+Banana,15,40,4.8,6.5,food,Summer,300,500,Black,Uttar Pradesh
+Black pepper,12,16,4.8,6.5,food,Rainy,1500,1200,Sandy,West Bengal
+Cashewnut,20,25,6.5,6.8,cash,Rainy,700,550,Black,West Bengal
+Coconut ,30,35,6,7,food,Winter,400,700,Sandy,Andhra Pradesh
+Dry chillies,25,30,6.5,7.5,plantatior,Rainy,1200,1300,Alluvial,Uttar Pradesh
+Dry ginger,10,40,5.5,7.5,food,Winter,350,700,Sandy,Madhya Pradesh
+other oilseeds,18,20,5.5,7.5,food,Rainy,900,800,Loamy,West Bengal
+Rice,16,35,5.8,6.5,cash,Summer,350,650,Alluvial,Uttar Pradesh
+Arecanut,22,38,4.8,6.5,cash,Summer,500,700,Alluvial,Gujarat
+Banana,24,27,4.8,6.8,plantatior,Rainy,900,400,Sandy,Karnataka
+Black pepper,20,40,5.5,6.5,food,summer,450,2500,Black,Tamil Nadu
+Cashewnut,10,22,5.8,6.5,cash,winter,500,1300,Loamy,West Bengal
+Coconut ,25,26,5.5,6.8,cash,rainy,450,600,Sandy,Andhra Pradesh
+Dry chillies,11,28,5.8,5.4,food,rainy,450,2200,Alluvial,West Bengal
+Turmeric,13,35,5.5,5.8,plantatior,summer,300,500,Black,Andhra Pradesh
+Arecanut,23,37,6.3,6.5,cash,summer,1500,1200,Sandy,Uttar Pradesh
+Banana,25,38,6,6.5,food,summer,700,550,Black,Madhya Pradesh
+Black pepper,26,25,6,6.8,food,rainy,400,700,Sandy,West Bengal
+Cashewnut,18,23,6.5,7,plantatior,winter,1200,1300,Alluvial,Uttar Pradesh
+Coconut ,22,24,6,7.5,cash,winter,350,2500,Sandy,Gujarat
+Dry chillies,30,33,6.5,7.5,food,Winter,900,1300,Loamy,Karnataka
+Dry ginger,10,35,5.5,7.5,plantatior,Summer,350,600,Alluvial,Tamil Nadu
+Sugarcane,12,27,5.5,6.5,food,Winter,500,2200,Black,West Bengal
+Sweet potato,15,35,5.8,6.5,food,Winter,900,500,Sandy,Andhra Pradesh
+Tapioca,17,36,4.8,6.5,cash,Summer,1200,1200,Black,Maharastra
+Turmeric,27,30,4.8,6.5,cash,Rainy,350,550,Sandy,Uttar Pradesh
+Rice,29,40,6.5,6.8,plantation,Rainy,900,700,Alluvial,West Bengal
+Sugarcane,22,25,6,7,cash,Winter,350,1300,Sandy,West Bengal
+Arecanut,30,27,6.5,7.5,food,Rainy,500,700,Loamy,Andhra Pradesh
+Black pepper,10,20,5.5,7.5,plantatior,Winter,900,800,Alluvial,Uttar Pradesh
+Cashewnut,30,30,5.5,7.5,cash,Rainy,450,650,Alluvial,Madhya Pradesh
+Dry chillies,23,37,5.8,6.5,food,Summer,500,700,Sandy,West Bengal
+Dry ginger,21,39,4.8,6.5,cash,Summer,450,400,Black,Uttar Pradesh
+Maize,16,29,4.8,6.8,plantatior,Rainy,450,2500,Loamy,Gujarat
+Moong(Green Gram),18,20,5.5,6.5,food,summer,300,600,Sandy,Karnataka
+Sweet potato,26,30,5.8,6.5,food,winter,1500,2200,Alluvial,Tamil Nadu
+Turmeric,30,36,5.5,6.8,cash,rainy,700,500,Black,West Bengal
+Urad,10,40,6.3,5.4,plantatior,rainy,400,1200,Sandy,Andhra Pradesh
+Banana,11,40,6,5.8,cash,summer,1200,550,Black,Uttar Pradesh
+Coconut ,18,20,6,6.5,food,summer,350,700,Sandy,Gujarat
+Tapioca,25,22,6.5,6.5,food,summer,900,1300,Sandy,Karnataka
+Arecanut,28,27,6,6.8,cash,rainy,350,700,Alluvial,Tamil Nadu
+Other Kharif pulses,19,37,6.5,7,food,winter,500,800,Black,West Bengal
+Rice,29,32,5.5,7.5,plantatior,winter,350,650,Sandy,Andhra Pradesh
+Banana,30,34,5.5,7.5,food,Winter,450,700,Black,Maharastra
+Cashewnut,21,24,5.8,7.5,plantation,Summer,300,400,Sandy,Uttar Pradesh
+Coconut ,13,37,4.8,6.5,plantation,Winter,1500,2500,Alluvial,West Bengal
+Dry ginger,15,28,4.8,6.5,cash,Winter,700,1300,Sandy,West Bengal
+other oilseeds,26,38,6.5,6.8,cash,Summer,400,600,Loamy,Andhra Pradesh
+Sugarcane,28,40,6,6.5,plantation,Rainy,1200,2200,Alluvial,Uttar Pradesh
+Sweet potato,29,22,6.5,6.5,plantation,Rainy,350,500,Alluvial,Madhya Pradesh
+Tapioca,30,3036,5.5,6.8,plantation,Winter,900,1200,Sandy,West Bengal
+Arecanut,12,37,5.5,7,cash,Rainy,350,550,Black,Uttar Pradesh
+Other Kharif pulses,11,34,5.8,7.5,plantation,Winter,500,700,Loamy,Gujarat
+Rice,10,38,4.8,7.5,cash,Rainy,900,1300,Sandy,Karnataka
+Cashewnut,19,28,4.8,7.5,food,Summer,450,2500,Alluvial,Tamil Nadu
+Coconut ,15,20,6.5,6.5,plantatior,Summer,500,1300,Black,West Bengal
+Dry ginger,10,25,5.5,7.5,cash,Rainy,450,600,Sandy,Andhra Pradesh
+Sugarcane,15,35,5.5,6.5,food,summer,450,2200,Black,Uttar Pradesh
+Sweet potato,12,40,5.8,5.4,cash,winter,300,500,Sandy,Gujarat
+Rice,20,26,4.8,5.8,plantatior,rainy,1500,1200,Alluvial,Karnataka
+Arecanut,30,28,4.8,6.5,food,rainy,700,550,Sandy,Tamil Nadu
+Banana,20,24,6.5,6.5,food,summer,400,700,Loamy,West Bengal
+Black pepper,25,34,6,6.8,cash,summer,1200,1300,Alluvial,Andhra Pradesh
+Cashewnut,10,38,4.8,7,plantatior,summer,350,700,Black,Maharastra
+Coconut ,15,30,4.8,7.5,cash,rainy,900,800,Sandy,Uttar Pradesh
+Dry chillies,12,27,6.5,7.5,food,winter,350,650,Black,West Bengal
+Dry ginger,20,30,6,7.5,cash,winter,500,700,Sandy,West Bengal
+other oilseeds,30,39,6.5,6.5,food,Winter,900,400,Alluvial,Andhra Pradesh
+Sugarcane,25,36,5.5,6.5,plantatior,Summer,1200,2500,Sandy,Uttar Pradesh
+Sweet potato,10,25,5.5,6.8,food,Winter,350,800,Loamy,Madhya Pradesh
+Tapioca,18,40,5.8,6.5,cash,Winter,900,650,Alluvial,West Bengal
+Turmeric,16,35,4.8,6.5,food,Summer,350,700,Alluvial,Uttar Pradesh
+Rice,22,27,4.8,6.8,plantatior,Rainy,500,400,Sandy,Gujarat
+Sugarcane,24,30,5.5,5.4,food,Rainy,900,2500,Black,Karnataka
+Arecanut,20,20,5.8,5.8,cash,Winter,450,1300,Loamy,Tamil Nadu
+Arhar/Tur,10,24,6.5,6.5,food,Rainy,500,600,Sandy,West Bengal
+Black pepper,13,45,5.5,6.5,cash,Winter,450,2200,Alluvial,Andhra Pradesh
+Cashewnut,26,30,5.5,6.8,plantatior,Rainy,450,500,Black,West Bengal
+Dry chillies,17,15,5.8,7,food,Summer,300,1200,Sandy,Andhra Pradesh
+Dry ginger,15,40,4.8,7.5,cash,Summer,1500,550,Black,Uttar Pradesh
+Groundnut,10,16,4.8,7.5,cash,Rainy,700,700,Sandy,Madhya Pradesh
+Maize,10,25,6.5,7.5,plantatior,summer,400,1300,Alluvial,West Bengal
+Moong(Green Gram),30,35,6,6.5,food,winter,1200,2500,Sandy,Uttar Pradesh
+Sunflower,26,30,6.5,6.5,food,rainy,350,1300,Black,Gujarat
+Sweet potato,24,40,5.5,6.5,plantatior,rainy,900,600,Loamy,Karnataka
+Turmeric,13,20,5.5,6.8,food,summer,350,2200,Sandy,Tamil Nadu
+Urad,10,35,5.8,6.5,cash,summer,500,500,Alluvial,West Bengal
+Banana,26,27,4.8,6.5,cash,summer,900,1200,Black,Andhra Pradesh
+Coconut ,28,30,4.8,6.8,food,rainy,450,550,Sandy,Maharastra
+Tapioca,15,20,5.5,7,food,winter,500,700,Black,Uttar Pradesh
+Rice,12,24,5.8,7.5,plantatior,winter,450,1300,Sandy,West Bengal
+Arecanut,30,24,5.5,7.5,plantatior,Winter,450,700,Sandy,West Bengal
+Banana,29,45,6.3,7.5,food,Summer,300,800,Black,Andhra Pradesh
+Black pepper,26,30,6,6.5,food,Winter,1500,650,Loamy,Uttar Pradesh
+Cashewnut,24,15,6,7.5,cash,Winter,700,700,Sandy,Madhya Pradesh
+Coconut ,13,40,6.5,6.5,plantatior,Summer,450,400,Alluvial,West Bengal
+Dry chillies,15,16,6,5.4,plantation,Rainy,300,2500,Black,Uttar Pradesh
+Dry ginger,24,25,6.5,5.8,cash,Rainy,1500,600,Sandy,Gujarat
+other oilseeds,26,35,5.5,6.5,plantation,Winter,700,2200,Black,Karnataka
+Sugarcane,15,30,5.5,6.5,cash,Rainy,400,500,Sandy,Tamil Nadu
+Rice,27,40,5.8,6.8,food,Winter,1200,1200,Alluvial,West Bengal
+Arecanut,12,20,4.8,7,plantatior,Rainy,350,550,Sandy,Andhra Pradesh
+Banana,17,35,4.8,7.5,cash,Summer,900,700,Loamy,Uttar Pradesh
+Black pepper,25,38,6.5,7.5,food,Summer,350,1300,Alluvial,Gujarat
+Cashewnut,26,27,6,7.5,cash,Rainy,500,700,Alluvial,Karnataka
+Coconut ,30,40,6.5,6.5,plantatior,summer,900,800,Sandy,Tamil Nadu
+Dry chillies,12,22,5.5,6.5,food,winter,450,650,Black,West Bengal
+Dry ginger,12,26,5.8,6.8,food,rainy,500,700,Loamy,Andhra Pradesh
+other oilseeds,16,28,5.5,6.5,cash,rainy,450,400,Sandy,Maharastra
+Sugarcane,23,35,6.3,6.5,plantatior,summer,450,2500,Alluvial,Uttar Pradesh
+Rice,25,37,6,6.8,cash,summer,300,1300,Black,West Bengal
+Arecanut,12,38,6,5.4,food,summer,1500,600,Sandy,West Bengal
+Banana,10,25,6.5,5.8,food,rainy,700,2200,Black,Andhra Pradesh
+Black pepper,15,23,6,6.5,cash,winter,400,500,Sandy,Uttar Pradesh
+Cashewnut,12,22,6.5,6.5,food,winter,1200,1200,Alluvial,Madhya Pradesh
+Coconut ,20,27,5.5,6.8,plantatior,Winter,350,550,Sandy,West Bengal
+Dry chillies,30,37,5.5,7,food,Summer,900,700,Loamy,Uttar Pradesh
+Dry ginger,20,40,5.8,7.5,plantation,Winter,350,1300,Alluvial,Gujarat
+other oilseeds,25,20,4.8,7.5,plantation,Winter,500,2500,Black,Karnataka
+Sugarcane,10,26,4.8,7.5,cash,Summer,900,1300,Sandy,Tamil Nadu
+Rice,15,28,6.5,6.5,cash,Rainy,1200,600,Black,West Bengal
+Arecanut,12,24,6,6.5,plantation,Rainy,350,2200,Sandy,Andhra Pradesh
+Banana,20,34,6.5,6.5,plantation,Winter,900,500,Alluvial,Uttar Pradesh
+Black pepper,30,38,5.5,6.5,plantation,Rainy,350,1200,Sandy,Gujarat
+Cashewnut,25,30,5.5,6.8,cash,Winter,500,550,Loamy,Karnataka
+Coconut ,10,27,5.8,7,plantation,Rainy,900,700,Alluvial,Tamil Nadu
+Dry chillies,18,30,4.8,7.5,cash,Summer,450,1300,Alluvial,West Bengal
+Dry ginger,16,39,4.8,7.5,food,Summer,500,700,Sandy,Andhra Pradesh
+other oilseeds,22,36,5.5,7.5,plantatior,Rainy,450,800,Black,Maharastra
+Sugarcane,24,25,5.8,6.5,cash,summer,450,650,Loamy,Uttar Pradesh
+Sweet potato,20,40,5.5,6.5,food,winter,300,700,Sandy,West Bengal
+Tapioca,10,35,6.3,6.8,cash,rainy,1500,400,Alluvial,West Bengal
+Turmeric,13,27,6,6.5,plantatior,rainy,700,2500,Black,Andhra Pradesh
+Rice,26,30,6,6.5,food,summer,400,400,Sandy,Uttar Pradesh
+Arecanut,30,20,6.5,6.8,food,summer,1200,2500,Black,Madhya Pradesh
+Banana,18,24,6,5.4,cash,summer,350,1300,Sandy,West Bengal
+Black pepper,25,45,6.5,5.8,plantatior,rainy,900,600,Alluvial,Uttar Pradesh
+Cashewnut,15,30,5.5,6.5,cash,winter,350,2200,Sandy,Gujarat
+Coconut ,21,15,5.5,6.5,food,winter,500,500,Black,Karnataka
+Dry chillies,25,40,5.8,6.8,food,Winter,900,1200,Loamy,Tamil Nadu
+Dry ginger,21,16,4.8,7,cash,Summer,450,550,Sandy,West Bengal
+other oilseeds,10,25,4.8,7.5,food,Winter,500,700,Alluvial,Andhra Pradesh
+Onion,30,35,5.8,6.5,cash,Summer,350,550,Sandy,Maharastra
+Potato,20,30,4.8,5.4,plantation,Summer,500,700,Loamy,Uttar Pradesh
+Jute,25,40,4.8,5.8,cash,Rainy,900,1300,Alluvial,West Bengal
+Arecanut,10,20,6.5,6.5,food,summer,450,700,Alluvial,West Bengal
+Other Kharif pulses,15,35,6,6.5,plantatior,winter,500,800,Sandy,Andhra Pradesh
+Rice,12,38,6.5,6.8,cash,rainy,450,650,Black,Uttar Pradesh
+Banana,20,27,5.5,7,food,rainy,450,700,Loamy,Madhya Pradesh
+Cashewnut,30,40,5.5,7.5,cash,summer,300,400,Sandy,West Bengal
+Coconut ,25,22,5.8,7.5,plantatior,summer,1500,2500,Alluvial,Uttar Pradesh
+Dry ginger,10,26,4.8,7.5,food,summer,700,1300,Black,Gujarat
+Sugarcane,18,28,4.8,6.5,food,rainy,400,600,Sandy,Karnataka
+Sweet potato,16,35,5.5,6.5,cash,winter,1200,2200,Black,Tamil Nadu
+Tapioca,22,37,5.8,6.8,plantatior,winter,350,500,Sandy,West Bengal
+Arecanut,24,38,5.5,6.5,cash,Winter,900,1200,Alluvial,Andhra Pradesh
+Other Kharif pulses,20,25,6.3,6.5,food,Summer,350,550,Sandy,Uttar Pradesh
+Rice,10,23,6,6.8,food,Winter,500,700,Loamy,Gujarat
+Cashewnut,25,22,6,5.4,cash,Winter,900,1300,Alluvial,Karnataka
+Coconut ,11,27,6.5,5.8,food,Summer,1200,2500,Black,Tamil Nadu
+Dry ginger,13,37,6,6.5,plantatior,Rainy,350,1300,Sandy,West Bengal
+Sugarcane,23,40,6.5,6.5,food,Rainy,900,600,Black,Andhra Pradesh
+Sweet potato,25,20,5.5,6.8,plantation,Winter,350,2200,Sandy,Maharastra
+Rice,26,26,5.5,7,plantation,Rainy,500,500,Alluvial,Uttar Pradesh
+Arecanut,18,28,5.8,7.5,cash,Winter,900,1200,Sandy,West Bengal
+Banana,22,24,4.8,7.5,cash,Rainy,450,550,Loamy,West Bengal
+Black pepper,30,34,4.8,7.5,plantation,Summer,500,700,Alluvial,Andhra Pradesh
+Cashewnut,10,38,6.5,6.5,plantation,Summer,450,1300,Alluvial,Uttar Pradesh
+Coconut ,12,30,6,6.5,plantation,Rainy,450,700,Sandy,Madhya Pradesh
+Dry chillies,15,27,6.5,6.5,cash,summer,300,800,Black,West Bengal
+Dry ginger,17,30,5.5,6.8,plantation,winter,1500,650,Loamy,Uttar Pradesh
+Sugarcane,27,39,5.5,6.5,cash,rainy,700,700,Sandy,Gujarat
+Rice,29,36,5.8,6.5,food,rainy,400,400,Alluvial,Karnataka
+Arecanut,22,25,4.8,6.8,plantatior,summer,1200,2500,Black,Tamil Nadu
+Banana,30,40,4.8,7,cash,summer,350,1300,Sandy,West Bengal
+Black pepper,10,35,6.5,7.5,food,summer,900,600,Black,Andhra Pradesh
+Cashewnut,15,27,5.5,7.5,cash,rainy,350,2200,Sandy,Uttar Pradesh
+Coconut ,12,30,5.5,7.5,plantatior,winter,500,500,Alluvial,Gujarat
+Dry chillies,20,20,5.8,6.5,food,winter,900,1200,Sandy,Karnataka
+Dry ginger,30,24,4.8,7.5,food,Winter,450,550,Black,Tamil Nadu
+other oilseeds,20,45,4.8,6.5,cash,Summer,500,700,Loamy,West Bengal
+Rice,25,30,6.5,5.4,plantatior,Winter,450,600,Sandy,Andhra Pradesh
+Arecanut,10,15,6,5.8,cash,Winter,450,2200,Alluvial,Maharastra
+Banana,15,40,4.8,6.5,food,Summer,300,500,Black,Uttar Pradesh
+Black pepper,12,16,4.8,6.5,food,Rainy,1500,1200,Sandy,West Bengal
+Cashewnut,20,25,6.5,6.8,cash,Rainy,700,550,Black,West Bengal
+Coconut ,30,35,6,7,food,Winter,400,700,Sandy,Andhra Pradesh
+Dry chillies,25,30,6.5,7.5,plantatior,Rainy,1200,1300,Alluvial,Uttar Pradesh
+Dry ginger,10,40,5.5,7.5,food,Winter,350,700,Sandy,Madhya Pradesh
+other oilseeds,18,20,5.5,7.5,food,Rainy,900,800,Loamy,West Bengal
+Rice,16,35,5.8,6.5,cash,Summer,350,650,Alluvial,Uttar Pradesh
+Arecanut,22,38,4.8,6.5,cash,Summer,500,700,Alluvial,Gujarat
+Banana,24,27,4.8,6.8,plantatior,Rainy,900,400,Sandy,Karnataka
+Black pepper,20,40,5.5,6.5,food,summer,450,2500,Black,Tamil Nadu
+Cashewnut,10,22,5.8,6.5,cash,winter,500,1300,Loamy,West Bengal
+Coconut ,25,26,5.5,6.8,cash,rainy,450,600,Sandy,Andhra Pradesh
+Dry chillies,11,28,5.8,5.4,food,rainy,450,2200,Alluvial,West Bengal
+Turmeric,13,35,5.5,5.8,plantatior,summer,300,500,Black,Andhra Pradesh
+Arecanut,23,37,6.3,6.5,cash,summer,1500,1200,Sandy,Uttar Pradesh
+Banana,25,38,6,6.5,food,summer,700,550,Black,Madhya Pradesh
+Black pepper,26,25,6,6.8,food,rainy,400,700,Sandy,West Bengal
+Cashewnut,18,23,6.5,7,plantatior,winter,1200,1300,Alluvial,Uttar Pradesh
+Coconut ,22,24,6,7.5,cash,winter,350,2500,Sandy,Gujarat
+Dry chillies,30,33,6.5,7.5,food,Winter,900,1300,Loamy,Karnataka
+Dry ginger,10,35,5.5,7.5,plantatior,Summer,350,600,Alluvial,Tamil Nadu
+Sugarcane,12,27,5.5,6.5,food,Winter,500,2200,Black,West Bengal
+Sweet potato,15,35,5.8,6.5,food,Winter,900,500,Sandy,Andhra Pradesh
+Tapioca,17,36,4.8,6.5,cash,Summer,1200,1200,Black,Maharastra
+Turmeric,27,30,4.8,6.5,cash,Rainy,350,550,Sandy,Uttar Pradesh
+Rice,29,40,6.5,6.8,plantation,Rainy,900,700,Alluvial,West Bengal
+Sugarcane,22,25,6,7,cash,Winter,350,1300,Sandy,West Bengal
+Arecanut,30,27,6.5,7.5,food,Rainy,500,700,Loamy,Andhra Pradesh
+Black pepper,10,20,5.5,7.5,plantatior,Winter,900,800,Alluvial,Uttar Pradesh
+Cashewnut,30,30,5.5,7.5,cash,Rainy,450,650,Alluvial,Madhya Pradesh
+Dry chillies,23,37,5.8,6.5,food,Summer,500,700,Sandy,West Bengal
+Dry ginger,21,39,4.8,6.5,cash,Summer,450,400,Black,Uttar Pradesh
+Maize,16,29,4.8,6.8,plantatior,Rainy,450,2500,Loamy,Gujarat
+Moong(Green Gram),18,20,5.5,6.5,food,summer,300,600,Sandy,Karnataka
+Sweet potato,26,30,5.8,6.5,food,winter,1500,2200,Alluvial,Tamil Nadu
+Turmeric,30,36,5.5,6.8,cash,rainy,700,500,Black,West Bengal
+Urad,10,40,6.3,5.4,plantatior,rainy,400,1200,Sandy,Andhra Pradesh
+Banana,11,40,6,5.8,cash,summer,1200,550,Black,Uttar Pradesh
+Coconut ,18,20,6,6.5,food,summer,350,700,Sandy,Gujarat
+Tapioca,25,22,6.5,6.5,food,summer,900,1300,Sandy,Karnataka
+Arecanut,28,27,6,6.8,cash,rainy,350,700,Alluvial,Tamil Nadu
+Other Kharif pulses,19,37,6.5,7,food,winter,500,800,Black,West Bengal
+Rice,29,32,5.5,7.5,plantatior,winter,350,650,Sandy,Andhra Pradesh
+Banana,30,34,5.5,7.5,food,Winter,450,700,Black,Maharastra
+Cashewnut,21,24,5.8,7.5,plantation,Summer,300,400,Sandy,Uttar Pradesh
+Coconut ,13,37,4.8,6.5,plantation,Winter,1500,2500,Alluvial,West Bengal
+Dry ginger,15,28,4.8,6.5,cash,Winter,700,1300,Sandy,West Bengal
+other oilseeds,26,38,6.5,6.8,cash,Summer,400,600,Loamy,Andhra Pradesh
+Sugarcane,28,40,6,6.5,plantation,Rainy,1200,2200,Alluvial,Uttar Pradesh
+Sweet potato,29,22,6.5,6.5,plantation,Rainy,350,500,Alluvial,Madhya Pradesh
+Tapioca,30,3036,5.5,6.8,plantation,Winter,900,1200,Sandy,West Bengal
+Arecanut,12,37,5.5,7,cash,Rainy,350,550,Black,Uttar Pradesh
+Other Kharif pulses,11,34,5.8,7.5,plantation,Winter,500,700,Loamy,Gujarat
+Rice,10,38,4.8,7.5,cash,Rainy,900,1300,Sandy,Karnataka
+Cashewnut,19,28,4.8,7.5,food,Summer,450,2500,Alluvial,Tamil Nadu
+Coconut ,15,20,6.5,6.5,plantatior,Summer,500,1300,Black,West Bengal
+Dry ginger,10,25,5.5,7.5,cash,Rainy,450,600,Sandy,Andhra Pradesh
+Sugarcane,15,35,5.5,6.5,food,summer,450,2200,Black,Uttar Pradesh
+Sweet potato,12,40,5.8,5.4,cash,winter,300,500,Sandy,Gujarat
+Rice,20,26,4.8,5.8,plantatior,rainy,1500,1200,Alluvial,Karnataka
+Arecanut,30,28,4.8,6.5,food,rainy,700,550,Sandy,Tamil Nadu
+Banana,20,24,6.5,6.5,food,summer,400,700,Loamy,West Bengal
+Black pepper,25,34,6,6.8,cash,summer,1200,1300,Alluvial,Andhra Pradesh
+Cashewnut,10,38,4.8,7,plantatior,summer,350,700,Black,Maharastra
+Coconut ,15,30,4.8,7.5,cash,rainy,900,800,Sandy,Uttar Pradesh
+Dry chillies,12,27,6.5,7.5,food,winter,350,650,Black,West Bengal
+Dry ginger,20,30,6,7.5,cash,winter,500,700,Sandy,West Bengal
+other oilseeds,30,39,6.5,6.5,food,Winter,900,400,Alluvial,Andhra Pradesh
+Sugarcane,25,36,5.5,6.5,plantatior,Summer,1200,2500,Sandy,Uttar Pradesh
+Sweet potato,10,25,5.5,6.8,food,Winter,350,800,Loamy,Madhya Pradesh
+Tapioca,18,40,5.8,6.5,cash,Winter,900,650,Alluvial,West Bengal
+Turmeric,16,35,4.8,6.5,food,Summer,350,700,Alluvial,Uttar Pradesh
+Rice,22,27,4.8,6.8,plantatior,Rainy,500,400,Sandy,Gujarat
+Sugarcane,24,30,5.5,5.4,food,Rainy,900,2500,Black,Karnataka
+Arecanut,20,20,5.8,5.8,cash,Winter,450,1300,Loamy,Tamil Nadu
+Arhar/Tur,10,24,6.5,6.5,food,Rainy,500,600,Sandy,West Bengal
+Black pepper,13,45,5.5,6.5,cash,Winter,450,2200,Alluvial,Andhra Pradesh
+Cashewnut,26,30,5.5,6.8,plantatior,Rainy,450,500,Black,West Bengal
+Dry chillies,17,15,5.8,7,food,Summer,300,1200,Sandy,Andhra Pradesh
+Dry ginger,15,40,4.8,7.5,cash,Summer,1500,550,Black,Uttar Pradesh
+Groundnut,10,16,4.8,7.5,cash,Rainy,700,700,Sandy,Madhya Pradesh
+Maize,10,25,6.5,7.5,plantatior,summer,400,1300,Alluvial,West Bengal
+Moong(Green Gram),30,35,6,6.5,food,winter,1200,2500,Sandy,Uttar Pradesh
+Sunflower,26,30,6.5,6.5,food,rainy,350,1300,Black,Gujarat
+Sweet potato,24,40,5.5,6.5,plantatior,rainy,900,600,Loamy,Karnataka
+Turmeric,13,20,5.5,6.8,food,summer,350,2200,Sandy,Tamil Nadu
+Urad,10,35,5.8,6.5,cash,summer,500,500,Alluvial,West Bengal
+Banana,26,27,4.8,6.5,cash,summer,900,1200,Black,Andhra Pradesh
+Coconut ,28,30,4.8,6.8,food,rainy,450,550,Sandy,Maharastra
+Rice,30,35,5.5,6.5,food,Winter,450,700,Alluvial,West Bengal
+Maize,18,27,5.8,6.8,food,Summer,500,800,Sandy,Andhra Pradesh
+Wheat,25,30,5.5,6.5,food,Winter,450,650,Black,Uttar Pradesh
+Soybeans,15,20,6.3,6.5,food,Winter,450,700,Loamy,Madhya Pradesh
+Tomatoes,21,24,6,6.8,plantation,Summer,300,400,Sandy,West Bengal
+Sugarcane,25,45,6,7,plantation,Rainy,1500,2500,Alluvial,Uttar Pradesh
+Cotton,21,30,6.5,7.5,cash,Rainy,700,1300,Black,Gujarat
+Sunflower,10,15,6,7.5,cash,Winter,400,600,Sandy,Karnataka
+Banana,15,40,6.5,7.5,plantation,Rainy,1200,2200,Black,Tamil Nadu
+Cabbage,12,16,5.5,6.5,plantation,Winter,350,500,Sandy,West Bengal
+Citrus,20,25,5.5,7.5,plantation,Rainy,900,1200,Alluvial,Andhra Pradesh
+Onion,30,35,5.8,6.5,cash,Summer,350,550,Sandy,Maharastra
+Potato,20,30,4.8,5.4,plantation,Summer,500,700,Loamy,Uttar Pradesh
+Jute,25,40,4.8,5.8,cash,Rainy,900,1300,Alluvial,West Bengal
+Arecanut,10,20,6.5,6.5,food,summer,450,700,Alluvial,West Bengal
+Other Kharif pulses,15,35,6,6.5,plantatior,winter,500,800,Sandy,Andhra Pradesh
+Rice,12,38,6.5,6.8,cash,rainy,450,650,Black,Uttar Pradesh
+Banana,20,27,5.5,7,food,rainy,450,700,Loamy,Madhya Pradesh
+Cashewnut,30,40,5.5,7.5,cash,summer,300,400,Sandy,West Bengal
+Coconut ,25,22,5.8,7.5,plantatior,summer,1500,2500,Alluvial,Uttar Pradesh
+Dry ginger,10,26,4.8,7.5,food,summer,700,1300,Black,Gujarat
+Sugarcane,18,28,4.8,6.5,food,rainy,400,600,Sandy,Karnataka
+Sweet potato,16,35,5.5,6.5,cash,winter,1200,2200,Black,Tamil Nadu
+Tapioca,22,37,5.8,6.8,plantatior,winter,350,500,Sandy,West Bengal
+Arecanut,24,38,5.5,6.5,cash,Winter,900,1200,Alluvial,Andhra Pradesh
+Other Kharif pulses,20,25,6.3,6.5,food,Summer,350,550,Sandy,Uttar Pradesh
+Rice,10,23,6,6.8,food,Winter,500,700,Loamy,Gujarat
+Cashewnut,25,22,6,5.4,cash,Winter,900,1300,Alluvial,Karnataka
+Coconut ,11,27,6.5,5.8,food,Summer,1200,2500,Black,Tamil Nadu
+Dry ginger,13,37,6,6.5,plantatior,Rainy,350,1300,Sandy,West Bengal
+Sugarcane,23,40,6.5,6.5,food,Rainy,900,600,Black,Andhra Pradesh
+Sweet potato,25,20,5.5,6.8,plantation,Winter,350,2200,Sandy,Maharastra
+Rice,26,26,5.5,7,plantation,Rainy,500,500,Alluvial,Uttar Pradesh
+Arecanut,18,28,5.8,7.5,cash,Winter,900,1200,Sandy,West Bengal
+Banana,22,24,4.8,7.5,cash,Rainy,450,550,Loamy,West Bengal
+Black pepper,30,34,4.8,7.5,plantation,Summer,500,700,Alluvial,Andhra Pradesh
+Cashewnut,10,38,6.5,6.5,plantation,Summer,450,1300,Alluvial,Uttar Pradesh
+Coconut ,12,30,6,6.5,plantation,Rainy,450,700,Sandy,Madhya Pradesh
+Dry chillies,15,27,6.5,6.5,cash,summer,300,800,Black,West Bengal
+Dry ginger,17,30,5.5,6.8,plantation,winter,1500,650,Loamy,Uttar Pradesh
+Sugarcane,27,39,5.5,6.5,cash,rainy,700,700,Sandy,Gujarat
+Rice,29,36,5.8,6.5,food,rainy,400,400,Alluvial,Karnataka
+Arecanut,22,25,4.8,6.8,plantatior,summer,1200,2500,Black,Tamil Nadu
+Banana,30,40,4.8,7,cash,summer,350,1300,Sandy,West Bengal
+Black pepper,10,35,6.5,7.5,food,summer,900,600,Black,Andhra Pradesh
+Cashewnut,15,27,5.5,7.5,cash,rainy,350,2200,Sandy,Uttar Pradesh
+Coconut ,12,30,5.5,7.5,plantatior,winter,500,500,Alluvial,Gujarat
+Dry chillies,20,20,5.8,6.5,food,winter,900,1200,Sandy,Karnataka
+Dry ginger,30,24,4.8,7.5,food,Winter,450,550,Black,Tamil Nadu
+other oilseeds,20,45,4.8,6.5,cash,Summer,500,700,Loamy,West Bengal
+Rice,25,30,6.5,5.4,plantatior,Winter,450,600,Sandy,Andhra Pradesh
+Arecanut,10,15,6,5.8,cash,Winter,450,2200,Alluvial,Maharastra
+Banana,15,40,4.8,6.5,food,Summer,300,500,Black,Uttar Pradesh
+Black pepper,12,16,4.8,6.5,food,Rainy,1500,1200,Sandy,West Bengal
+Cashewnut,20,25,6.5,6.8,cash,Rainy,700,550,Black,West Bengal
+Coconut ,30,35,6,7,food,Winter,400,700,Sandy,Andhra Pradesh
+Dry chillies,25,30,6.5,7.5,plantatior,Rainy,1200,1300,Alluvial,Uttar Pradesh
+Dry ginger,10,40,5.5,7.5,food,Winter,350,700,Sandy,Madhya Pradesh
+other oilseeds,18,20,5.5,7.5,food,Rainy,900,800,Loamy,West Bengal
+Rice,16,35,5.8,6.5,cash,Summer,350,650,Alluvial,Uttar Pradesh
+Arecanut,22,38,4.8,6.5,cash,Summer,500,700,Alluvial,Gujarat
+Banana,24,27,4.8,6.8,plantatior,Rainy,900,400,Sandy,Karnataka
+Black pepper,20,40,5.5,6.5,food,summer,450,2500,Black,Tamil Nadu
+Cashewnut,10,22,5.8,6.5,cash,winter,500,1300,Loamy,West Bengal
+Coconut ,25,26,5.5,6.8,cash,rainy,450,600,Sandy,Andhra Pradesh
+Dry chillies,11,28,5.8,5.4,food,rainy,450,2200,Alluvial,West Bengal
+Turmeric,13,35,5.5,5.8,plantatior,summer,300,500,Black,Andhra Pradesh
+Arecanut,23,37,6.3,6.5,cash,summer,1500,1200,Sandy,Uttar Pradesh
+Banana,25,38,6,6.5,food,summer,700,550,Black,Madhya Pradesh
+Black pepper,26,25,6,6.8,food,rainy,400,700,Sandy,West Bengal
+Cashewnut,18,23,6.5,7,plantatior,winter,1200,1300,Alluvial,Uttar Pradesh
+Coconut ,22,24,6,7.5,cash,winter,350,2500,Sandy,Gujarat
+Dry chillies,30,33,6.5,7.5,food,Winter,900,1300,Loamy,Karnataka
+Dry ginger,10,35,5.5,7.5,plantatior,Summer,350,600,Alluvial,Tamil Nadu
+Sugarcane,12,27,5.5,6.5,food,Winter,500,2200,Black,West Bengal
+Sweet potato,15,35,5.8,6.5,food,Winter,900,500,Sandy,Andhra Pradesh
+Tapioca,17,36,4.8,6.5,cash,Summer,1200,1200,Black,Maharastra
+Turmeric,27,30,4.8,6.5,cash,Rainy,350,550,Sandy,Uttar Pradesh
+Rice,29,40,6.5,6.8,plantation,Rainy,900,700,Alluvial,West Bengal
+Sugarcane,22,25,6,7,cash,Winter,350,1300,Sandy,West Bengal
+Arecanut,30,27,6.5,7.5,food,Rainy,500,700,Loamy,Andhra Pradesh
+Black pepper,10,20,5.5,7.5,plantatior,Winter,900,800,Alluvial,Uttar Pradesh
+Cashewnut,30,30,5.5,7.5,cash,Rainy,450,650,Alluvial,Madhya Pradesh
+Dry chillies,23,37,5.8,6.5,food,Summer,500,700,Sandy,West Bengal
+Dry ginger,21,39,4.8,6.5,cash,Summer,450,400,Black,Uttar Pradesh
+Maize,16,29,4.8,6.8,plantatior,Rainy,450,2500,Loamy,Gujarat
+Moong(Green Gram),18,20,5.5,6.5,food,summer,300,600,Sandy,Karnataka
+Sweet potato,26,30,5.8,6.5,food,winter,1500,2200,Alluvial,Tamil Nadu
+Turmeric,30,36,5.5,6.8,cash,rainy,700,500,Black,West Bengal
+Urad,10,40,6.3,5.4,plantatior,rainy,400,1200,Sandy,Andhra Pradesh
+Banana,11,40,6,5.8,cash,summer,1200,550,Black,Uttar Pradesh
+Coconut ,18,20,6,6.5,food,summer,350,700,Sandy,Gujarat
+Tapioca,25,22,6.5,6.5,food,summer,900,1300,Sandy,Karnataka
+Arecanut,28,27,6,6.8,cash,rainy,350,700,Alluvial,Tamil Nadu
+Other Kharif pulses,19,37,6.5,7,food,winter,500,800,Black,West Bengal
+Rice,29,32,5.5,7.5,plantatior,winter,350,650,Sandy,Andhra Pradesh
+Banana,30,34,5.5,7.5,food,Winter,450,700,Black,Maharastra
+Cashewnut,21,24,5.8,7.5,plantation,Summer,300,400,Sandy,Uttar Pradesh
+Coconut ,13,37,4.8,6.5,plantation,Winter,1500,2500,Alluvial,West Bengal
+Dry ginger,15,28,4.8,6.5,cash,Winter,700,1300,Sandy,West Bengal
+other oilseeds,26,38,6.5,6.8,cash,Summer,400,600,Loamy,Andhra Pradesh
+Sugarcane,28,40,6,6.5,plantation,Rainy,1200,2200,Alluvial,Uttar Pradesh
+Sweet potato,29,22,6.5,6.5,plantation,Rainy,350,500,Alluvial,Madhya Pradesh
+Tapioca,30,3036,5.5,6.8,plantation,Winter,900,1200,Sandy,West Bengal
+Arecanut,12,37,5.5,7,cash,Rainy,350,550,Black,Uttar Pradesh
+Other Kharif pulses,11,34,5.8,7.5,plantation,Winter,500,700,Loamy,Gujarat
+Rice,10,38,4.8,7.5,cash,Rainy,900,1300,Sandy,Karnataka
+Cashewnut,19,28,4.8,7.5,food,Summer,450,2500,Alluvial,Tamil Nadu
+Coconut ,15,20,6.5,6.5,plantatior,Summer,500,1300,Black,West Bengal
+Dry ginger,10,25,5.5,7.5,cash,Rainy,450,600,Sandy,Andhra Pradesh
+Sugarcane,15,35,5.5,6.5,food,summer,450,2200,Black,Uttar Pradesh
+Sweet potato,12,40,5.8,5.4,cash,winter,300,500,Sandy,Gujarat
+Rice,20,26,4.8,5.8,plantatior,rainy,1500,1200,Alluvial,Karnataka
+Arecanut,30,28,4.8,6.5,food,rainy,700,550,Sandy,Tamil Nadu
+Banana,20,24,6.5,6.5,food,summer,400,700,Loamy,West Bengal
+Black pepper,25,34,6,6.8,cash,summer,1200,1300,Alluvial,Andhra Pradesh
+Cashewnut,10,38,4.8,7,plantatior,summer,350,700,Black,Maharastra
+Coconut ,15,30,4.8,7.5,cash,rainy,900,800,Sandy,Uttar Pradesh
+Dry chillies,12,27,6.5,7.5,food,winter,350,650,Black,West Bengal
+Dry ginger,20,30,6,7.5,cash,winter,500,700,Sandy,West Bengal
+other oilseeds,30,39,6.5,6.5,food,Winter,900,400,Alluvial,Andhra Pradesh
+Sugarcane,25,36,5.5,6.5,plantatior,Summer,1200,2500,Sandy,Uttar Pradesh
+Sweet potato,10,25,5.5,6.8,food,Winter,350,800,Loamy,Madhya Pradesh
+Tapioca,18,40,5.8,6.5,cash,Winter,900,650,Alluvial,West Bengal
+Turmeric,16,35,4.8,6.5,food,Summer,350,700,Alluvial,Uttar Pradesh
+Rice,22,27,4.8,6.8,plantatior,Rainy,500,400,Sandy,Gujarat
+Sugarcane,24,30,5.5,5.4,food,Rainy,900,2500,Black,Karnataka
+Arecanut,20,20,5.8,5.8,cash,Winter,450,1300,Loamy,Tamil Nadu
+Arhar/Tur,10,24,6.5,6.5,food,Rainy,500,600,Sandy,West Bengal
+Black pepper,13,45,5.5,6.5,cash,Winter,450,2200,Alluvial,Andhra Pradesh
+Cashewnut,26,30,5.5,6.8,plantatior,Rainy,450,500,Black,West Bengal
+Dry chillies,17,15,5.8,7,food,Summer,300,1200,Sandy,Andhra Pradesh
+Dry ginger,15,40,4.8,7.5,cash,Summer,1500,550,Black,Uttar Pradesh
+Groundnut,10,16,4.8,7.5,cash,Rainy,700,700,Sandy,Madhya Pradesh
+Maize,10,25,6.5,7.5,plantatior,summer,400,1300,Alluvial,West Bengal
+Moong(Green Gram),30,35,6,6.5,food,winter,1200,2500,Sandy,Uttar Pradesh
+Sunflower,26,30,6.5,6.5,food,rainy,350,1300,Black,Gujarat
+Sweet potato,24,40,5.5,6.5,plantatior,rainy,900,600,Loamy,Karnataka
+Turmeric,13,20,5.5,6.8,food,summer,350,2200,Sandy,Tamil Nadu
+Urad,10,35,5.8,6.5,cash,summer,500,500,Alluvial,West Bengal
+Banana,26,27,4.8,6.5,cash,summer,900,1200,Black,Andhra Pradesh
+Coconut ,28,30,4.8,6.8,food,rainy,450,550,Sandy,Maharastra
+Tapioca,15,20,5.5,7,food,winter,500,700,Black,Uttar Pradesh
+Rice,12,24,5.8,7.5,plantatior,winter,450,1300,Sandy,West Bengal
+Arecanut,30,24,5.5,7.5,plantatior,Winter,450,700,Sandy,West Bengal
+Banana,29,45,6.3,7.5,food,Summer,300,800,Black,Andhra Pradesh
+Black pepper,26,30,6,6.5,food,Winter,1500,650,Loamy,Uttar Pradesh
+Cashewnut,24,15,6,7.5,cash,Winter,700,700,Sandy,Madhya Pradesh
+Coconut ,13,40,6.5,6.5,plantatior,Summer,450,400,Alluvial,West Bengal
+Dry chillies,15,16,6,5.4,plantation,Rainy,300,2500,Black,Uttar Pradesh
+Dry ginger,24,25,6.5,5.8,cash,Rainy,1500,600,Sandy,Gujarat
+other oilseeds,26,35,5.5,6.5,plantation,Winter,700,2200,Black,Karnataka
+Sugarcane,15,30,5.5,6.5,cash,Rainy,400,500,Sandy,Tamil Nadu
+Rice,27,40,5.8,6.8,food,Winter,1200,1200,Alluvial,West Bengal
+Arecanut,12,20,4.8,7,plantatior,Rainy,350,550,Sandy,Andhra Pradesh
+Banana,17,35,4.8,7.5,cash,Summer,900,700,Loamy,Uttar Pradesh
+Black pepper,25,38,6.5,7.5,food,Summer,350,1300,Alluvial,Gujarat
+Cashewnut,26,27,6,7.5,cash,Rainy,500,700,Alluvial,Karnataka
+Coconut ,30,40,6.5,6.5,plantatior,summer,900,800,Sandy,Tamil Nadu
+Dry chillies,12,22,5.5,6.5,food,winter,450,650,Black,West Bengal
+Dry ginger,12,26,5.8,6.8,food,rainy,500,700,Loamy,Andhra Pradesh
+other oilseeds,16,28,5.5,6.5,cash,rainy,450,400,Sandy,Maharastra
+Sugarcane,23,35,6.3,6.5,plantatior,summer,450,2500,Alluvial,Uttar Pradesh
+Rice,25,37,6,6.8,cash,summer,300,1300,Black,West Bengal
+Arecanut,12,38,6,5.4,food,summer,1500,600,Sandy,West Bengal
+Banana,10,25,6.5,5.8,food,rainy,700,2200,Black,Andhra Pradesh
+Black pepper,15,23,6,6.5,cash,winter,400,500,Sandy,Uttar Pradesh
+Cashewnut,12,22,6.5,6.5,food,winter,1200,1200,Alluvial,Madhya Pradesh
+Coconut ,20,27,5.5,6.8,plantatior,Winter,350,550,Sandy,West Bengal
+Dry chillies,30,37,5.5,7,food,Summer,900,700,Loamy,Uttar Pradesh
+Dry ginger,20,40,5.8,7.5,plantation,Winter,350,1300,Alluvial,Gujarat
+other oilseeds,25,20,4.8,7.5,plantation,Winter,500,2500,Black,Karnataka
+Sugarcane,10,26,4.8,7.5,cash,Summer,900,1300,Sandy,Tamil Nadu
+Rice,15,28,6.5,6.5,cash,Rainy,1200,600,Black,West Bengal
+Arecanut,12,24,6,6.5,plantation,Rainy,350,2200,Sandy,Andhra Pradesh
+Banana,20,34,6.5,6.5,plantation,Winter,900,500,Alluvial,Uttar Pradesh
+Black pepper,30,38,5.5,6.5,plantation,Rainy,350,1200,Sandy,Gujarat
+Cashewnut,25,30,5.5,6.8,cash,Winter,500,550,Loamy,Karnataka
+Coconut ,10,27,5.8,7,plantation,Rainy,900,700,Alluvial,Tamil Nadu
+Dry chillies,18,30,4.8,7.5,cash,Summer,450,1300,Alluvial,West Bengal
+Dry ginger,16,39,4.8,7.5,food,Summer,500,700,Sandy,Andhra Pradesh
+other oilseeds,22,36,5.5,7.5,plantatior,Rainy,450,800,Black,Maharastra
+Sugarcane,24,25,5.8,6.5,cash,summer,450,650,Loamy,Uttar Pradesh
+Sweet potato,20,40,5.5,6.5,food,winter,300,700,Sandy,West Bengal
+Tapioca,10,35,6.3,6.8,cash,rainy,1500,400,Alluvial,West Bengal
+Turmeric,13,27,6,6.5,plantatior,rainy,700,2500,Black,Andhra Pradesh
+Rice,26,30,6,6.5,food,summer,400,400,Sandy,Uttar Pradesh
+Arecanut,30,20,6.5,6.8,food,summer,1200,2500,Black,Madhya Pradesh
+Banana,18,24,6,5.4,cash,summer,350,1300,Sandy,West Bengal
+Black pepper,25,45,6.5,5.8,plantatior,rainy,900,600,Alluvial,Uttar Pradesh
+Cashewnut,15,30,5.5,6.5,cash,winter,350,2200,Sandy,Gujarat
+Coconut ,21,15,5.5,6.5,food,winter,500,500,Black,Karnataka
+Dry chillies,25,40,5.8,6.8,food,Winter,900,1200,Loamy,Tamil Nadu
+Dry ginger,21,16,4.8,7,cash,Summer,450,550,Sandy,West Bengal
+other oilseeds,10,25,4.8,7.5,food,Winter,500,700,Alluvial,Andhra Pradesh
+Sugarcane,15,35,6.5,7.5,plantatior,Winter,450,1300,Black,West Bengal
+Sweet potato,12,30,6,7.5,food,Summer,450,700,Sandy,Uttar Pradesh
+Tapioca,20,40,6.5,6.5,food,Rainy,300,800,Black,Gujarat
+Turmeric,30,20,5.5,6.5,cash,Rainy,1500,650,Sandy,Karnataka
+Rice,20,35,5.5,6.8,cash,Winter,700,700,Alluvial,Tamil Nadu
+Turmeric,20,33,4.8,7,plantatior,summer,900,600,Sandy,Andhra Pradesh
+Urad,10,35,6.5,7.5,food,rainy,350,2200,Alluvial,Uttar Pradesh
+Banana,25,27,6,7.5,food,winter,500,500,Sandy,Madhya Pradesh
+Coconut ,11,35,6.5,7.5,cash,winter,900,1200,Loamy,West Bengal
+Tapioca,13,36,5.5,6.5,cash,Winter,450,550,Alluvial,Uttar Pradesh
+Arhar/Tur,23,30,6.5,6.5,plantation,Summer,500,700,Black,Gujarat
+Bajra,25,40,6.3,6.8,cash,Winter,450,1300,Sandy,Karnataka
+Castor seed,26,25,6,6.5,food,Winter,450,700,Black,Tamil Nadu
+Cotton(lint),18,27,6,6.5,plantatior,Summer,300,800,Sandy,West Bengal
+Dry chillies,22,20,6.5,6.8,cash,Rainy,1500,650,Alluvial,Andhra Pradesh
+Groundnut,30,30,6,5.4,food,Rainy,700,700,Sandy,Uttar Pradesh
+Horse-gram,10,37,6.5,5.8,cash,Winter,400,400,Loamy,Gujarat
+Jowar,12,39,5.5,6.5,plantatior,Rainy,1200,2500,Alluvial,Karnataka
+Korra,15,29,5.5,6.5,food,Winter,350,1300,Alluvial,Tamil Nadu
+Maize,17,20,5.8,6.8,food,Rainy,900,600,Sandy,West Bengal
+Moong(Green Gram),27,30,4.8,7,cash,Summer,350,2200,Black,Andhra Pradesh
+Other Kharif pulses,29,36,4.8,7.5,plantatior,Summer,500,500,Loamy,Maharastra
+Ragi,22,40,6.5,7.5,cash,Rainy,900,1200,Sandy,Uttar Pradesh
+Rice,30,40,6,7.5,food,summer,450,550,Alluvial,West Bengal
+Sugarcane,10,20,6.5,6.5,food,winter,500,700,Black,West Bengal
+Sunflower,15,22,5.5,6.5,cash,rainy,450,600,Sandy,Andhra Pradesh
+Tobacco,12,27,5.5,6.5,food,rainy,450,2200,Black,Uttar Pradesh
+Dry chillies,20,37,5.8,6.8,plantatior,summer,300,500,Sandy,Madhya Pradesh
+Gram,30,32,4.8,6.5,plantation,summer,1500,1200,Sandy,West Bengal
+Groundnut,20,34,4.8,6.5,plantation,summer,700,550,Alluvial,Uttar Pradesh
+Horse-gram,25,24,5.5,6.8,plantation,rainy,500,700,Black,Gujarat
+Jowar,10,37,5.8,7,cash,winter,900,1300,Sandy,Karnataka
+Korra,15,28,5.5,7.5,plantation,winter,1200,700,Black,Tamil Nadu
+Maize,12,38,6.3,7.5,cash,Winter,350,800,Sandy,West Bengal
+Ragi,20,40,6,7.5,food,Summer,900,650,Alluvial,Andhra Pradesh
+Rice,30,22,6,6.5,plantatior,Winter,350,700,Sandy,West Bengal
+Sunflower,25,3036,6.5,7.5,cash,Winter,500,400,Loamy,Andhra Pradesh
+Wheat,10,37,6,6.5,food,Summer,900,2500,Alluvial,Uttar Pradesh
+Arhar/Tur,18,34,6.5,5.4,cash,Rainy,450,1300,Alluvial,Madhya Pradesh
+Bajra,16,38,5.5,5.8,plantatior,Rainy,500,600,Sandy,West Bengal
+Castor seed,22,28,5.5,6.5,food,Winter,450,2200,Black,Uttar Pradesh
+Cotton(lint),24,20,5.8,6.5,food,Winter,450,500,Loamy,Gujarat
+Dry chillies,20,25,4.8,6.8,cash,Summer,300,1200,Sandy,Karnataka
+Groundnut,10,35,4.8,7,plantatior,Winter,1500,550,Alluvial,Tamil Nadu
+Horse-gram,25,40,6.5,7.5,cash,Winter,700,700,Black,West Bengal
+Jowar,11,26,6,7.5,food,Summer,400,1300,Sandy,Andhra Pradesh
+Korra,12,28,6.5,7.5,food,Rainy,1200,2500,Black,Maharastra
+Maize,14,24,5.5,6.5,cash,Rainy,350,1300,Sandy,Uttar Pradesh
+Moong(Green Gram),24,23,5.5,6.5,food,Winter,900,600,Alluvial,West Bengal
+Other Kharif pulses,25,25,5.8,6.8,plantatior,Rainy,350,2200,Sandy,West Bengal
+Ragi,22,26,4.8,6.5,food,Winter,500,500,Loamy,Andhra Pradesh
+Rice,20,34,4.8,6.5,food,Rainy,350,1200,Alluvial,Uttar Pradesh
+Sunflower,10,35,6.5,6.8,cash,Summer,450,550,Black,Madhya Pradesh
+Dry chillies,12,30,5.5,5.4,cash,Summer,300,700,Sandy,West Bengal
+Gram,23,20,5.5,5.8,plantatior,Rainy,1500,1200,Black,Uttar Pradesh
+Groundnut,12,30,5.8,6.5,food,summer,700,550,Sandy,Gujarat
+Horse-gram,15,35,4.8,6.5,cash,winter,400,700,Alluvial,Karnataka
+Jowar,26,34,4.8,6.8,cash,rainy,1200,1300,Sandy,Tamil Nadu
+Maize,14,40,6.5,7,food,rainy,350,700,Loamy,West Bengal
+Ragi,23,37,6,7.5,plantatior,summer,900,800,Alluvial,Andhra Pradesh
+Rice,25,38,4.8,7.5,cash,summer,350,650,Alluvial,Uttar Pradesh
+Sunflower,26,30,4.8,7.5,food,summer,500,700,Sandy,Gujarat
+Wheat,28,22,6.5,6.5,food,rainy,900,400,Black,Karnataka
+Sugarcane,16,34,6,6.5,plantatior,winter,450,2500,Loamy,Tamil Nadu
+Tobacco,19,0,6.5,6.5,cash,winter,500,1300,Sandy,West Bengal
+Bajra,22,40,5.5,6.5,food,Winter,450,600,Alluvial,Andhra Pradesh
+Castor seed,11,20,5.5,6.8,plantatior,Summer,450,2200,Black,Maharastra
+Cotton(lint),12,37,5.8,7,food,Winter,300,500,Sandy,Uttar Pradesh
+Groundnut,16,35,4.8,7.5,food,Winter,1500,1200,Black,West Bengal
+Horse-gram,21,24,4.8,6.5,cash,Summer,700,550,Sandy,West Bengal
+Jowar,29,37,5.5,6.8,cash,Rainy,400,700,Alluvial,Andhra Pradesh
+Maize,20,38,5.8,6.5,plantation,Rainy,1200,1300,Sandy,Uttar Pradesh
+Masoor,10,40,6.5,6.5,cash,Winter,350,2500,Black,Madhya Pradesh
+Moong(Green Gram),12,20,5.5,6.8,food,Rainy,900,1300,Loamy,West Bengal
+Ragi,14,30,5.5,5.4,plantatior,Winter,350,600,Sandy,Uttar Pradesh
+Rice,15,40,5.8,5.8,cash,Rainy,500,2200,Alluvial,Gujarat
+Sesamum,26,30,4.8,6.5,food,Summer,900,500,Black,Karnataka
+Urad,25,38,4.8,6.5,cash,Summer,1200,1200,Sandy,Tamil Nadu
+Bajra,23,26,6.5,6.8,plantatior,Rainy,350,550,Black,West Bengal
+Gram,27,27,6,7,food,summer,900,700,Sandy,Andhra Pradesh
+Groundnut,28,30,6.5,7.5,food,winter,350,1300,Alluvial,Uttar Pradesh
+Horse-gram,12,40,5.5,7.5,cash,rainy,500,700,Black,Gujarat
+Jowar,26,20,5.5,7.5,plantatior,rainy,900,800,Sandy,Karnataka
+Linseed,28,23,5.8,6.5,cash,summer,450,650,Black,Tamil Nadu
+Maize,23,25,4.8,6.5,food,summer,500,700,Sandy,West Bengal
+Masoor,11,35,4.8,6.5,food,summer,450,400,Alluvial,Andhra Pradesh
+Moong(Green Gram),10,40,5.5,6.5,cash,rainy,450,2500,Sandy,Maharastra
+Ragi,14,30,5.8,6.8,food,winter,300,2500,Loamy,Uttar Pradesh
+Rice,23,35,5.5,7,plantatior,winter,1500,1300,Alluvial,West Bengal
+Safflower,22,36,6.3,7.5,food,Winter,700,600,Black,West Bengal
+Sesamum,21,28,6,7.5,plantation,Summer,400,2200,Sandy,Andhra Pradesh
+Wheat,25,40,6,7.5,plantation,Winter,1200,500,Black,Uttar Pradesh
+Dry chillies,10,24,6.5,6.5,cash,Winter,450,1200,Sandy,Madhya Pradesh
+Onion,20,25,5.8,6.5,cash,Summer,500,550,Alluvial,West Bengal
+Sugarcane,30,35,4.8,6.8,plantation,Rainy,450,700,Sandy,Uttar Pradesh
+Arhar/Tur,18,36,4.8,6.5,plantation,Rainy,450,1300,Loamy,Gujarat
+Bajra,25,27,6.5,6.5,plantation,Winter,300,700,Alluvial,Karnataka
+Castor seed,30,28,6,6.8,cash,Rainy,1500,800,,Tamil Nadu
+Cotton(lint),12,29,6.5,5.4,plantation,Winter,700,650,,West Bengal
+Dry chillies,10,35,5.5,5.8,cash,Rainy,400,700,,Andhra Pradesh
+Gram,14,36,5.5,6.5,food,Summer,1200,400,,West Bengal
+Groundnut,15,34,5.8,6.5,plantatior,Summer,350,2500,,Andhra Pradesh
+Horse-gram,16,38,4.8,6.8,cash,Rainy,900,400,,Maharastra
+Jowar,17,20,4.8,7,food,summer,350,2500,,Uttar Pradesh
+Korra,29,22,5.5,7.5,cash,winter,500,1300,,West Bengal
+Maize,30,24,5.8,7.5,plantatior,rainy,900,600,,West Bengal
+Moong(Green Gram),21,22,5.5,7.5,food,rainy,450,2200,,Andhra Pradesh
+Onion,13,26,6.3,6.5,food,summer,500,500,,Uttar Pradesh
+Other Kharif pulses,15,28,6,6.5,cash,summer,450,1200,,Madhya Pradesh
+other misc. pulses,26,35,6,6.8,plantatior,summer,450,550,,West Bengal
+Ragi,28,37,6.5,7,cash,rainy,300,700,,Uttar Pradesh
+Rice,29,38,6,7.5,food,winter,1500,1300,,Gujarat
+Samai,30,25,6.5,7.5,cash,winter,700,700,,Karnataka
+Sesamum,12,23,5.5,7.5,food,Winter,400,800,,Tamil Nadu
+Small millets,11,22,5.5,6.5,plantatior,Summer,1200,650,,West Bengal
+Sunflower,10,27,5.8,7.5,food,Winter,350,700,,Andhra Pradesh
+Urad,19,37,4.8,6.5,cash,Winter,900,400,,West Bengal
+Arhar/Tur,15,40,4.8,5.4,food,Summer,350,2500,,Andhra Pradesh
+Bajra,10,20,6.5,5.8,plantatior,Rainy,500,1300,,Uttar Pradesh
+Dry chillies,15,26,6,6.5,food,Rainy,900,600,,Madhya Pradesh
+Gram,12,28,6.5,6.5,cash,Winter,1200,2200,,West Bengal
+Groundnut,20,24,5.5,6.8,food,Rainy,350,500,,Uttar Pradesh
+Horse-gram,30,34,5.8,7,cash,Winter,900,1200,,Gujarat
+Jowar,20,38,5.5,7.5,plantatior,Rainy,350,550,,Karnataka
+Korra,25,30,6.3,7.5,food,Summer,500,700,,Tamil Nadu
+Linseed,10,27,6,7.5,cash,Summer,900,1300,,West Bengal
+Maize,15,30,6,6.5,cash,Rainy,450,2500,,Andhra Pradesh
+Onion,12,39,6.5,6.5,plantatior,summer,500,1300,,Maharastra
+Ragi,20,36,6,6.8,food,winter,450,600,,Uttar Pradesh
+Rice,30,25,6.5,6.5,food,rainy,450,2200,,West Bengal
+Safflower,25,40,5.5,6.5,plantatior,rainy,300,500,,West Bengal
+Small millets,10,35,5.5,6.8,food,summer,1500,1200,,Andhra Pradesh
+Urad,18,27,5.8,5.4,cash,summer,700,550,,Uttar Pradesh
+Wheat,16,30,4.8,5.8,cash,summer,900,700,,Madhya Pradesh
+Arecanut,22,20,4.8,6.5,food,rainy,450,1300,,West Bengal
+Banana,24,24,6.5,6.5,food,winter,500,700,,Uttar Pradesh
+Coconut ,20,45,6,6.8,plantatior,winter,450,800,,Gujarat
+Coriander,10,30,6.5,7,plantatior,Winter,450,650,,Karnataka
+Groundnut,16,35,4.8,7.5,food,Winter,1500,1200,Black,West Bengal
+Horse-gram,21,24,4.8,6.5,cash,Summer,700,550,Sandy,West Bengal
+Jowar,29,37,5.5,6.8,cash,Rainy,400,700,Alluvial,Andhra Pradesh
+Maize,20,38,5.8,6.5,plantation,Rainy,1200,1300,Sandy,Uttar Pradesh
+Masoor,10,40,6.5,6.5,cash,Winter,350,2500,Black,Madhya Pradesh
+Moong(Green Gram),12,20,5.5,6.8,food,Rainy,900,1300,Loamy,West Bengal
+Ragi,14,30,5.5,5.4,plantatior,Winter,350,600,Sandy,Uttar Pradesh
+Rice,15,40,5.8,5.8,cash,Rainy,500,2200,Alluvial,Gujarat
+Sesamum,26,30,4.8,6.5,food,Summer,900,500,Black,Karnataka
+Urad,25,38,4.8,6.5,cash,Summer,1200,1200,Sandy,Tamil Nadu
+Bajra,23,26,6.5,6.8,plantatior,Rainy,350,550,Black,West Bengal
+Gram,27,27,6,7,food,summer,900,700,Sandy,Andhra Pradesh
+Groundnut,28,30,6.5,7.5,food,winter,350,1300,Alluvial,Uttar Pradesh
+Horse-gram,12,40,5.5,7.5,cash,rainy,500,700,Black,Gujarat
+Jowar,26,20,5.5,7.5,plantatior,rainy,900,800,Sandy,Karnataka
+Linseed,28,23,5.8,6.5,cash,summer,450,650,Black,Tamil Nadu
+Maize,23,25,4.8,6.5,food,summer,500,700,Sandy,West Bengal
+Masoor,11,35,4.8,6.5,food,summer,450,400,Alluvial,Andhra Pradesh
+Moong(Green Gram),10,40,5.5,6.5,cash,rainy,450,2500,Sandy,Maharastra
+Ragi,14,30,5.8,6.8,food,winter,300,2500,Loamy,Uttar Pradesh
+Rice,23,35,5.5,7,plantatior,winter,1500,1300,Alluvial,West Bengal
+Safflower,22,36,6.3,7.5,food,Winter,700,600,Black,West Bengal
+Sesamum,21,28,6,7.5,plantation,Summer,400,2200,Sandy,Andhra Pradesh
+Wheat,25,40,6,7.5,plantation,Winter,1200,500,Black,Uttar Pradesh
+Dry chillies,10,24,6.5,6.5,cash,Winter,450,1200,Sandy,Madhya Pradesh
+Onion,20,25,5.8,6.5,cash,Summer,500,550,Alluvial,West Bengal
