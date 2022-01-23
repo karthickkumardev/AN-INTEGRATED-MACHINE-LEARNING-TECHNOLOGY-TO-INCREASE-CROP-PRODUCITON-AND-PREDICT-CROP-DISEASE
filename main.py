@@ -1,4 +1,5 @@
 #Import necessary libraries
+from cgi import print_directory
 from urllib import response
 from flask import Flask, render_template, request, make_response , jsonify
 import numpy as np
@@ -11,7 +12,6 @@ from tensorflow.keras.models import load_model
 filepath = 'F:\Final Year Project\Plant-Leaf-Disease-Prediction\model.h5'
 model = load_model(filepath)
 print(model)
-
 print("Model Loaded Successfully")
 
 def pred_tomato_dieas(tomato_plant):
@@ -55,17 +55,9 @@ def pred_tomato_dieas(tomato_plant):
   elif pred==9:
       return "Tomato - Two Spotted Spider Mite Disease", 'Tomato - Two-spotted_spider_mite.html'
 
-    
-
 # Create flask instance
 app = Flask(__name__)
-
-# render index.html page
-@app.route("/", methods=['GET', 'POST'])
-def home():
-        return render_template('index.html')
-    
- 
+     
 # get input image from client then predict class and render respective .html page for solution
 @app.route("/predict", methods = ['GET','POST'])
 def predict():
@@ -79,14 +71,24 @@ def predict():
 
         print("@@ Predicting class......")
         pred, output_page = pred_tomato_dieas(tomato_plant=file_path)
-              
-        return render_template(output_page, pred_output = pred, user_image = file_path)
-@app.route("/crop", methods = ['GET','POST'])
-def crop():
+        
+        return make_response(
+            jsonify(
+                    {
+                        "diseaseName" : pred,
+                        "outputPage" : output_page
+                    }
+                )
+            )
+        # return render_template(output_page, pred_output = pred, user_image = file_path)
+
+@app.route("/crop-production", methods = ['GET','POST'])
+def crop_Production():
     if request.method == 'GET':
         headers = {"Content-Type": "application/json"}
         import ndsemi
     return make_response(jsonify({"Message" : "Open the App"}),404,headers)
+
 # For local system & cloud
 if __name__ == "__main__":
     app.run(threaded=False,port=8080) 

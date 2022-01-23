@@ -69,7 +69,8 @@ def doNothing() :
     extra.fun(value1,name1)
     return
 def Check():
-    if(var.get()==0 or ((var1.get()==var2.get()==var3.get()) and (not(var1.get()==1 or var2.get()==1 or var3.get()==1)))):
+    # ((var1.get()==var2.get()==var3.get()) and (not(var1.get()==1 or var2.get()==1 or var3.get()==1)))
+    if(var.get()==0):
         import popup
         popup.popUp()
     else:
@@ -133,17 +134,17 @@ droplist1.place(x=440, y=330)
 var2 = IntVar()
 var3 = IntVar()
 
-label_5 = Label(root, text="type of crop", width=20, font=("bold", 10))
-label_5.place(x=250, y=380)
+# label_5 = Label(root, text="type of crop", width=20, font=("bold", 10))
+# label_5.place(x=250, y=380)
 
-check_1 = Checkbutton(root, text="food", variable=var1)
-check_1.place(x=430, y=380)
+# check_1 = Checkbutton(root, text="food", variable=var1)
+# check_1.place(x=430, y=380)
+var1.set(1)
+# check_2 = Checkbutton(root, text="cash", variable=var2)
+# check_2.place(x=505, y=380)
 
-check_2 = Checkbutton(root, text="cash", variable=var2)
-check_2.place(x=505, y=380)
-
-check_3 = Checkbutton(root, text="plantation", variable=var3)
-check_3.place(x=580, y=380)
+# check_3 = Checkbutton(root, text="plantation", variable=var3)
+# check_3.place(x=580, y=380)
 
 label_9 = Label(root, text="Average rainfall for year", width=20, font=("bold", 10))
 label_9.place(x=250, y=500)
